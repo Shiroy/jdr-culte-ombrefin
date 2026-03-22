@@ -59,7 +59,7 @@ Village agricole établi de longue date, Hautefauche doit son nom à sa position
 
 | Nom / Groupe       | Type / Race      | Rôle ou fonction    | Attitude envers les étrangers |
 |--------------------|------------------|---------------------|-------------------------------|
-| Amand Lefebvre     | Humain           | Bailli — autorité morale du village, interlocuteur principal | Prudent, mesuré, mais protecteur des siens |
+| Armand Lefebvre    | Humain           | Bailli — autorité morale du village, interlocuteur principal | Prudent, mesuré, mais protecteur des siens |
 | Paysans & fermiers | Humains          | Production agricole | Méfiants, paranoïaques depuis l'épidémie |
 | L'aubergiste       | Humain           | Tient le relais de route — principal contact des voyageurs | Pragmatique, entre accueil commercial et méfiance ambiante |
 | Le meunier         | Humain           | Gère le moulin, figure économique centrale | _À définir_ |
@@ -67,7 +67,7 @@ Village agricole établi de longue date, Hautefauche doit son nom à sa position
 | Malades du village | Humains          | Habitants frappés par l'épidémie | _Sans objet_ |
 
 ### Hiérarchie & dynamiques de pouvoir
-Le bailli Amand Lefebvre est l'autorité de fait — respecté, écouté, sans pouvoir coercitif réel. En temps normal, le village fonctionne en bonne intelligence avec le Comté. Depuis l'épidémie, la peur a fragilisé cette cohésion : des voix accusatrices émergent, cherchant un responsable parmi les étrangers de passage.
+Le bailli Armand Lefebvre est l'autorité de fait — respecté, écouté, sans pouvoir coercitif réel. En temps normal, le village fonctionne en bonne intelligence avec le Comté. Depuis l'épidémie, la peur a fragilisé cette cohésion : des voix accusatrices émergent, cherchant un responsable parmi les étrangers de passage.
 
 ### Culture & coutumes
 Village ancré dans le rythme des saisons agricoles et la dévotion à Chauntea. La chapelle est le cœur social du village autant que spirituel — les décisions importantes se prennent souvent après l'office du matin.
@@ -137,7 +137,7 @@ Village ancré dans le rythme des saisons agricoles et la dévotion à Chauntea.
 ### Liens vers les fiches associées
 - **Lieu parent** : [Val-Doré](../VAL_DORE.md)
 - **Lieux enfants** : _À compléter_
-- **PNJ associés** : Amand Lefebvre (bailli), l'aubergiste, le meunier, le prêtre de Chauntea — _fiches à créer_
+- **PNJ associés** : [Armand Lefebvre (bailli)](./HAUTEFAUCHE/PNJ/ARMAND_LEFEBVRE.md), l'aubergiste, le meunier, le prêtre de Chauntea — _fiches à créer_
 - **Factions associées** : [Royaume de Calédonie](../../../faction/ROYAUME_CALEDONIE.md), [Culte de l'Ombrefin](../../../faction/CULTE_OMBREFIN.md)
 
 ---

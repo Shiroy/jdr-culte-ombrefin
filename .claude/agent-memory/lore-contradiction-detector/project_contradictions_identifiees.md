@@ -80,5 +80,25 @@ La "Secte de Myrkul" a été correctement renommée en "Culte de l'Ombrefin" dan
 - Ligne 163 (section "Liens") : `../../../../../faction/ROYAUME_CALEDONIE.md` — correct (remonte à la racine puis `faction/`)
 - Correction : ligne 104, remplacer `../../../../faction/ROYAUME_CALEDONIE.md` par `../../../../../faction/ROYAUME_CALEDONIE.md`
 
+---
+
+### Audit PNJ ARMAND_LEFEBVRE — 2026-03-22
+
+**Résultat : AUCUNE CONTRADICTION DÉTECTÉE**
+
+Cohérence vérifiée sur les points suivants :
+- Lien faction `../../../../../faction/ROYAUME_CALEDONIE.md` : correct (remonte à la racine depuis `HAUTEFAUCHE/PNJ/`)
+- Lien zone `../../HAUTEFAUCHE.md` : correct
+- Affiliation "Comté du Val-Doré, Royaume de Calédonie" : cohérent avec MONDE.md et faction/ROYAUME_CALEDONIE.md
+- Épidémie liée au Culte de l'Ombrefin (section Aspects magiques) : cohérent avec CULTE_OMBREFIN.md
+- Comte Édouard de Champ-d'Or mentionné indirectement (Armand est "sous l'autorité du Comté du Val-Doré, loyal au Comte Édouard de Champ-d'Or") : cohérent avec EDOUARD_DE_CHAMP_D_OR.md
+- Population 150 habitants : conforme aux données de référence établies par HAUTEFAUCHE.md
+- Chauntea comme divinité du village : conforme au canon (Chauntea = divinité populaire calédonienne)
+- Culte de l'Ombrefin absent de la fiche faction d'Armand (il n'en fait pas partie) : correct
+- Ton et ambiance (thriller rural pastoral) : cohérent avec VAL_DORE.md et HAUTEFAUCHE.md
+
+**Convention narrative confirmée (2026-03-22)** :
+- "Aventuriers" et "soldats mandatés par le Comte" sont des termes interchangeables pour désigner les joueurs. Ce n'est pas une ambiguïté de lore. Ne plus signaler ce point dans les audits futurs.
+
 **Why:** Résultats d'audit, utiles pour les corrections futures et pour éviter de signaler les mêmes problèmes deux fois.
 **How to apply:** Vérifier le statut de ces points avant chaque nouvel audit. Mettre à jour ce fichier si l'auteur confirme une résolution.
