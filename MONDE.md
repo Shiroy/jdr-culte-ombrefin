@@ -16,9 +16,9 @@ Dans l'ombre, le **Culte de l'Ombrefin**, voué à **Myrkul**, Seigneur des Osse
 
 Les principales zones sont :
 
-- [Calédonie](./zones/CALEDONIE.md) — royaume féodal occidental
-  - [Val-Doré](./zones/VAL_DORE.md) — sous-région agricole de Calédonie, principal théâtre de la campagne
-- [Régions finoriennes (Finoryn)](./zones/REGIONS_FINORIENNES.md) — fédération de cités-états orientales
+- [Calédonie](./zones/CALEDONIE/CALEDONIE.md) — royaume féodal occidental
+  - [Val-Doré](./zones/CALEDONIE/VAL_DORE.md) — sous-région agricole de Calédonie, principal théâtre de la campagne
+- [Régions finoriennes (Finoryn)](./zones/REGIONS_FINORIENNES/REGIONS_FINORIENNES.md) — fédération de cités-états orientales
 
 # Factions
 
