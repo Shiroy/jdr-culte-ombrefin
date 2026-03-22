@@ -59,5 +59,17 @@ La "Secte de Myrkul" a été correctement renommée en "Culte de l'Ombrefin" dan
 ### Vérification 2026-03-22 (audit "Finoryn")
 Ajout du nom canonique "Finoryn" dans MONDE.md, zones/REGIONS_FINORIENNES.md, faction/REGIONS_FINORIENNES.md, campagne/introduction_joueurs.md. **Aucune nouvelle contradiction introduite.** Les fichiers non modifiés (CALEDONIE.md, VAL_DORE.md, CULTE_OMBREFIN.md, NOBLES_CONSPIRATEURS.md, ROYAUME_CALEDONIE.md) utilisent "Régions finoriennes" ou "cités finoriennes", ce qui est canoniquement correct selon la règle de nommage établie.
 
+### Vérification 2026-03-22 (audit "fiches standardisées")
+Périmètre : zones/CALEDONIE/CALEDONIE.md, zones/CALEDONIE/VAL_DORE.md, zones/REGIONS_FINORIENNES/REGIONS_FINORIENNES.md — nouvelles fiches au format template.
+Résultat : **0 contradiction introduite.** Toutes les corrections des audits précédents sont bien intégrées. Cohérence globale : Excellente.
+
+Ambiguités non bloquantes identifiées :
+
+**Ambiguité A — Issue de la guerre ancienne** : aucun fichier ne précise si la guerre ancienne fut une victoire finorienne, calédonienne, ou un épuisement mutuel. Risque lors de l'introduction d'artefacts historiques ou de festivités commémoratives. A clarifier dans MONDE.md en priorité.
+
+**Ambiguité B — Nobles conspirateurs au Val-Doré** : VAL_DORE.md les cite en faction associée mais faction/NOBLES_CONSPIRATEURS.md ne mentionne pas le Val-Doré. Association implicite à expliciter lors de l'introduction du seigneur local.
+
+**Ambiguité C — Marchands finoriens en Calédonie** : mentionnés dans les fiches de zone mais absents de faction/REGIONS_FINORIENNES.md. A documenter si ces marchands jouent un rôle scénaristique.
+
 **Why:** Résultats d'audit, utiles pour les corrections futures et pour éviter de signaler les mêmes problèmes deux fois.
 **How to apply:** Vérifier le statut de ces points avant chaque nouvel audit. Mettre à jour ce fichier si l'auteur confirme une résolution.

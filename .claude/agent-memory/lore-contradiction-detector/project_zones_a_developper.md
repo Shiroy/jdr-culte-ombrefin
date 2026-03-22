@@ -21,5 +21,11 @@ type: project
 - Les nobles conspirateurs : aucun nom, aucun titre spécifique.
 - Le seigneur du Val-Doré : mentionné dans `campagne/introduction_joueurs.md` mais sans nom.
 
+## Vigilances post-standardisation (audit 2026-03-22 — fiches template)
+
+- **Seigneur local du Val-Doré** : en le nommant, clarifier s'il est lié aux Nobles conspirateurs (ambiguité B). VAL_DORE.md les cite déjà en faction associée.
+- **Issue de la guerre ancienne** : à définir dans MONDE.md avant tout document in-world (traité, fête commémorative, légende). Aucun fichier ne tranche actuellement.
+- **Marchands finoriens** : présence en Calédonie mentionnée dans les fiches de zone mais pas dans faction/REGIONS_FINORIENNES.md. A documenter si rôle scénaristique.
+
 **Why:** Identifié lors de l'audit du 2026-03-22. Les zones peu détaillées sont les premières sources de contradictions lors des ajouts de contenu.
 **How to apply:** Signaler ces lacunes lors des demandes de développement. Veiller à la cohérence dès l'introduction des premiers noms propres.
