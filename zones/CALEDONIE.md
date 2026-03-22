@@ -13,7 +13,7 @@ Royaume féodal unifié, gouverné par un roi dont l'autorité repose sur la loy
 
 ## Situation politique
 
-Le roi a perdu de l'influence après avoir tenté un rapprochement avec certaines cités finoriennes. Des nobles conservateurs ont comploté pour affaiblir son autorité, créant un vide de pouvoir et une compétition ouverte entre seigneurs vassaux.
+Le roi a perdu de l'influence après avoir tenté un rapprochement avec certaines cités finoriennes. Des nobles conservateurs ont comploté pour affaiblir son autorité — leur succès, partiel mais réel, a fragilisé l'autorité royale et ouvert une compétition ouverte entre seigneurs vassaux.
 
 ## Économie
 

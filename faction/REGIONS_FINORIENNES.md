@@ -23,4 +23,4 @@ Sentant l'instabilité politique en Calédonie, certaines cités cherchent à re
 ## Relation avec les autres factions
 
 - **Royaume de Calédonie** : fournisseur indispensable méprisé en privé
-- **Culte de l'Ombrefin** : ignorent son existence — cible potentielle de manipulation
+- **Culte de l'Ombrefin** : ignorent totalement son existence — déjà instrumentalisées à leur insu, poussées à réagir aux provocations fabriquées de toutes pièces

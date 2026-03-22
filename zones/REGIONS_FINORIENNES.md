@@ -12,7 +12,7 @@ Territoire continental à l'est du fleuve appelé ici l'**Aethros**. Les cités-
 
 - Chaque cité-état est indépendante, gouvernée par un conseil de mages ou un archimage
 - Une fédération existe sur le papier, mais détient très peu de pouvoir réel
-- Individuellement, chaque cité est plus puissante que le royaume de Calédonie, mais leur fragmentation les affaiblit collectivement
+- Individuellement, chaque cité dispose d'une supériorité magique et économique sur le royaume de Calédonie, mais leur fragmentation les prive de toute force militaire coordonnée
 
 ## Économie
 
