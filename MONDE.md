@@ -4,7 +4,7 @@ Un continent de médiéval-fantasy divisé en deux grandes puissances aux cultur
 
 # Histoire
 
-Il y a plusieurs siècles, une grande guerre opposa les ancêtres des calédoniens aux premiers cercles de mages finoriens. Elle se conclut par un traité établissant le fleuve comme frontière et posant les bases d'une relation commerciale durable : la Calédonie fournit nourriture, matières premières et artisanat ; les cités finoriennes fournissent en retour des biens avancés et magiques (médecines, objets enchantés, etc.).
+Il y a plusieurs siècles, une grande guerre opposa les ancêtres des calédoniens aux premiers cercles de mages finoriens. Elle se conclut par un **match nul** — aucun camp ne put l'emporter — débouchant sur un traité établissant le fleuve comme frontière et posant les bases d'une relation commerciale durable : la Calédonie fournit nourriture, matières premières et artisanat ; les cités finoriennes fournissent en retour des biens avancés et magiques (médecines, objets enchantés, etc.). En gage d'apaisement, les Finoriens offrirent plusieurs ouvrages d'art à la Calédonie, dont le pont de pierre de Pont-sur-Douve sur la Douve. Ce geste est encore lu différemment selon les sensibilités : un cadeau de bonne volonté pour les partisans du rapprochement, un acte d'arrogance déguisé en générosité pour les conservateurs hostiles à Finoryn.
 
 Aujourd'hui, le royaume de Calédonie traverse une crise politique. Le roi, ayant tenté un rapprochement diplomatique avec certaines cités finoriennes, s'est attiré l'hostilité de nobles conservateurs qui ont comploté dans son dos pour saper son autorité. Cette crise de pouvoir a ouvert une compétition entre seigneurs vassaux pour l'influence sur le royaume.
 
