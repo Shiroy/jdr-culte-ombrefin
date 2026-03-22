@@ -161,7 +161,7 @@ La vie de Pont-sur-Douve est rythmée par les saisons agricoles et le marché he
 ### Liens vers les fiches associées
 - **Lieu parent** : [Val-Doré](../VAL_DORE.md)
 - **Lieux enfants** : _À compléter_
-- **PNJ associés** : Édouard de Champ-d'Or (Comte du Val-Doré) — _fiche à créer_
+- **PNJ associés** : [Édouard de Champ-d'Or](./PONT_SUR_DOUVE/PNJ/EDOUARD_DE_CHAMP_D_OR.md) — Comte du Val-Doré, gouverneur de Pont-sur-Douve
 - **Factions associées** : [Royaume de Calédonie](../../../faction/ROYAUME_CALEDONIE.md)
 
 ---

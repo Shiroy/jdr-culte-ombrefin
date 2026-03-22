@@ -59,5 +59,26 @@ La "Secte de Myrkul" a été correctement renommée en "Culte de l'Ombrefin" dan
 **Ambiguïté — Distances entre autres localités du Val-Doré**
 - À établir par un tableau dans VAL_DORE.md quand 2-3 villages supplémentaires auront été créés.
 
+---
+
+### Audit PNJ EDOUARD_DE_CHAMP_D_OR — 2026-03-22
+
+**Contradiction L1 — Lien brisé vers Pont-sur-Douve (section "Zone(s) de présence")** — OUVERTE
+- Ligne 162 de la fiche PNJ : `../PONT_SUR_DOUVE.md`
+- Depuis `zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE/PNJ/`, ce chemin pointe vers `zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE/PONT_SUR_DOUVE.md` qui n'existe pas.
+- Fichier réel : `zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE.md`
+- Correction : remplacer `../PONT_SUR_DOUVE.md` par `../../PONT_SUR_DOUVE.md`
+
+**Contradiction L2 — Lien brisé vers Val-Doré (section "Zone(s) de présence")** — OUVERTE
+- Ligne 162 de la fiche PNJ : `../../VAL_DORE.md`
+- Depuis `zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE/PNJ/`, ce chemin pointe vers `zones/CALEDONIE/VAL_DORE/VAL_DORE.md` qui n'existe pas.
+- Fichier réel : `zones/CALEDONIE/VAL_DORE.md`
+- Correction : remplacer `../../VAL_DORE.md` par `../../../VAL_DORE.md`
+
+**Contradiction L3 — Deux chemins contradictoires vers faction/ROYAUME_CALEDONIE.md** — OUVERTE
+- Ligne 104 (section "Appartenance") : `../../../../faction/ROYAUME_CALEDONIE.md` — incorrect (remonte à `zones/faction/` inexistant)
+- Ligne 163 (section "Liens") : `../../../../../faction/ROYAUME_CALEDONIE.md` — correct (remonte à la racine puis `faction/`)
+- Correction : ligne 104, remplacer `../../../../faction/ROYAUME_CALEDONIE.md` par `../../../../../faction/ROYAUME_CALEDONIE.md`
+
 **Why:** Résultats d'audit, utiles pour les corrections futures et pour éviter de signaler les mêmes problèmes deux fois.
 **How to apply:** Vérifier le statut de ces points avant chaque nouvel audit. Mettre à jour ce fichier si l'auteur confirme une résolution.
