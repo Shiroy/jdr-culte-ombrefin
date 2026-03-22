@@ -1,6 +1,6 @@
 # Présentation
 
-Un continent de médiéval-fantasy divisé en deux grandes puissances aux cultures opposées : le royaume féodal de **Calédonie** à l'ouest, et les cités-états magiques des **Régions finoriennes** (officiellement **Finoryn**) à l'est. Les deux territoires sont séparés par un grand fleuve — appelé la **Veyne** côté calédonien, et l'**Aethros** côté finiorien — franchissable en quelques points de passage gardés comme des postes-frontières. La relation entre les deux puissances est cordiale en surface, mais teintée d'un mépris mutuel latent.
+Un continent de médiéval-fantasy divisé en deux grandes puissances aux cultures opposées : le royaume féodal de **Calédonie** à l'ouest, et les cités-états magiques des **Régions finoriennes** (officiellement **Finoryn**) à l'est. Les deux territoires sont séparés par un grand fleuve — appelé la **Veyne** côté calédonien, l'**Aethros** côté finiorien, et **l'Aevyne** dans les traités et textes diplomatiques bilatéraux — franchissable en quelques points de passage gardés comme des postes-frontières. La relation entre les deux puissances est cordiale en surface, mais teintée d'un mépris mutuel latent.
 
 # Histoire
 
@@ -16,9 +16,9 @@ Dans l'ombre, le **Culte de l'Ombrefin**, voué à **Myrkul**, Seigneur des Osse
 
 Les principales zones sont :
 
-- [Calédonie](./zones/CALEDONIE/CALEDONIE.md) — royaume féodal occidental
+- [Calédonie](./zones/CALEDONIE.md) — royaume féodal occidental
   - [Val-Doré](./zones/CALEDONIE/VAL_DORE.md) — sous-région agricole de Calédonie, principal théâtre de la campagne
-- [Régions finoriennes (Finoryn)](./zones/REGIONS_FINORIENNES/REGIONS_FINORIENNES.md) — fédération de cités-états orientales
+- [Régions finoriennes (Finoryn)](./zones/REGIONS_FINORIENNES.md) — fédération de cités-états orientales
 
 # Factions
 

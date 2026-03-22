@@ -14,7 +14,7 @@
 |----------------------|-----------------------------------------------------|
 | **Nom officiel**     | Hautefauche                                         |
 | **Surnoms & noms locaux** | _À compléter_                                |
-| **Localisation**     | Val-Doré, Calédonie — sur la route commerciale principale, à plusieurs heures de route de Pont-sur-Douve |
+| **Localisation**     | Val-Doré, Calédonie — sur la route commerciale principale, à une journée de voyage de Pont-sur-Douve |
 | **Superficie / Taille** | Village de ~150 habitants                        |
 | **État actuel**      | Fragilisé — épidémie mystérieuse active, tensions sociales montantes |
 | **Appartenance**     | Royaume de Calédonie — sous l'autorité du Comté du Val-Doré |
@@ -33,7 +33,7 @@ Village agricole établi de longue date, Hautefauche doit son nom à sa position
 | Récent | Le Comte Édouard de Champ-d'Or dépêche des aventuriers pour enquêter sur la maladie |
 
 ### Mythes, légendes & rumeurs
-- _(Incertain)_ La maladie aurait été apportée par un marchand finorien de passage — rumeur alimentant la méfiance envers Finoryn
+- _(Faux)_ La maladie aurait été apportée par un marchand finorien de passage — rumeur née de la peur et de la paranoïa collective, sans fondement réel. Elle alimente néanmoins la méfiance envers Finoryn.
 - _(Incertain)_ Certains villageois murmurent que le moulin est maudit depuis qu'un inconnu y a séjourné
 
 ---

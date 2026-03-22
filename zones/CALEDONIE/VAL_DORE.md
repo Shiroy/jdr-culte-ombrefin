@@ -78,7 +78,7 @@ _À compléter_
 - **Ambiance spécifique** : Prospère et laborieux, avec une tension politique en sourdine liée à la crise du royaume
 
 ### 📌 Hautefauche — village agricole sur la route commerciale
-- **Description** : Village de ~150 habitants perché sur une colline dominant les champs, avec moulin, auberge-relais et chapelle de Chauntea. Situé à plusieurs heures de route de Pont-sur-Douve.
+- **Description** : Village de ~150 habitants perché sur une colline dominant les champs, avec moulin, auberge-relais et chapelle de Chauntea. Situé à une journée de voyage de Pont-sur-Douve.
 - **Particularité** : Frappé par une mystérieuse épidémie — point de départ de la première aventure. Voir [fiche dédiée](./VAL_DORE/HAUTEFAUCHE.md).
 - **Ambiance spécifique** : Décor pastoral idyllique terni par la peur et la méfiance envers les étrangers
 

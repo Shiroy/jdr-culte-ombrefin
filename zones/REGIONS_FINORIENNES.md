@@ -136,7 +136,7 @@ Les Finoriens considèrent les Calédoniens comme des rustres peu cultivés et l
 - **Lieu parent** : _(continent — pas de fiche dédiée)_
 - **Lieux enfants** : _À compléter (cités-états individuelles)_
 - **PNJ associés** : _À compléter_
-- **Factions associées** : [Régions finoriennes](../../faction/REGIONS_FINORIENNES.md)
+- **Factions associées** : [Régions finoriennes](../faction/REGIONS_FINORIENNES.md)
 
 ---
 
