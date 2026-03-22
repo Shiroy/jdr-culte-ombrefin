@@ -65,11 +65,29 @@ Résultat : **0 contradiction introduite.** Toutes les corrections des audits pr
 
 Ambiguités non bloquantes identifiées :
 
-**Ambiguité A — Issue de la guerre ancienne** : aucun fichier ne précise si la guerre ancienne fut une victoire finorienne, calédonienne, ou un épuisement mutuel. Risque lors de l'introduction d'artefacts historiques ou de festivités commémoratives. A clarifier dans MONDE.md en priorité.
+**Ambiguité A — Issue de la guerre ancienne** : aucun fichier ne précise si la guerre ancienne fut une victoire finorienne, calédonienne, ou un épuisement mutuel. Risque lors de l'introduction d'artefacts historiques ou de festivités commémoratives. A clarifier dans MONDE.md en priorité. NOTE 2026-03-22 (audit PONT_SUR_DOUVE) : PONT_SUR_DOUVE.md introduit un "geste d'apaisement" des finoriens comme origine du pont — premier ancrage narratif orientant vers une initiative finorienne de paix. Opportunité de résoudre cette ambiguité dans MONDE.md.
 
-**Ambiguité B — Nobles conspirateurs au Val-Doré** : VAL_DORE.md les cite en faction associée mais faction/NOBLES_CONSPIRATEURS.md ne mentionne pas le Val-Doré. Association implicite à expliciter lors de l'introduction du seigneur local.
+**Ambiguité B — Nobles conspirateurs au Val-Doré** : VAL_DORE.md les cite en faction associée mais faction/NOBLES_CONSPIRATEURS.md ne mentionne pas le Val-Doré. NOTE 2026-03-22 (audit PONT_SUR_DOUVE) : Édouard de Champ-d'Or est explicitement royaliste — les Nobles conspirateurs convoitent le Val-Doré face à lui, sans y être implantés. La mention dans VAL_DORE.md reste correcte mais doit être nuancée ("convoitent" plutôt qu'"opèrent dans").
 
 **Ambiguité C — Marchands finoriens en Calédonie** : mentionnés dans les fiches de zone mais absents de faction/REGIONS_FINORIENNES.md. A documenter si ces marchands jouent un rôle scénaristique.
+
+### Vérification 2026-03-22 (audit "PONT_SUR_DOUVE")
+Périmètre : zones/CALEDONIE/PONT_SUR_DOUVE.md — nouvelle fiche de localité.
+Résultat : **0 contradiction dure identifiée.** Cohérence globale de la fiche : Excellente.
+
+**Ambiguité #1 — Place forte centrale de VAL_DORE.md vs Pont-sur-Douve** (priorité haute)
+- VAL_DORE.md liste "Place forte centrale" comme point d'intérêt distinct et cite Pont-sur-Douve comme lieu enfant.
+- PONT_SUR_DOUVE.md est la capitale administrative avec château comtal = équivalent fonctionnel de la "place forte centrale".
+- Action : remplacer le point d'intérêt "Place forte centrale" dans VAL_DORE.md par une référence nommée à Pont-sur-Douve.
+
+**Ambiguité #2 — Seigneur local anonyme dans VAL_DORE.md** (priorité moyenne)
+- PONT_SUR_DOUVE.md nomme Édouard de Champ-d'Or, Comte du Val-Doré, royaliste pragmatique.
+- VAL_DORE.md maintient encore "Seigneur local" sans nom dans son tableau d'habitants.
+- Action : mettre à jour VAL_DORE.md pour nommer Édouard de Champ-d'Or.
+
+**Ambiguité #3 — Geste d'apaisement finorien / issue de la guerre** (priorité faible, voir Ambiguité A)
+- "Geste d'apaisement" des finoriens = premier ancrage sur l'issue de la guerre ancienne.
+- Action : si l'auteur valide, documenter dans MONDE.md.
 
 **Why:** Résultats d'audit, utiles pour les corrections futures et pour éviter de signaler les mêmes problèmes deux fois.
 **How to apply:** Vérifier le statut de ces points avant chaque nouvel audit. Mettre à jour ce fichier si l'auteur confirme une résolution.
