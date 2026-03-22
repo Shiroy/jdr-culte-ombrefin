@@ -14,6 +14,7 @@
 |----------------------|-----------------------------------------------------|
 | **Nom officiel**     |                                                     |
 | **Surnoms & noms locaux** |                                              |
+| **Gentilé**              | _(ex. : Haut-Faucheur / Haute-Faucheuse)_   |
 | **Localisation**     | _(région parente, distance des lieux proches)_      |
 | **Superficie / Taille** | _(ex. : 3 km², ville de ~8 000 habitants, 4 étages)_ |
 | **État actuel**      | Actif / Prospère / En déclin / Abandonné / En ruine / Disputé / … |

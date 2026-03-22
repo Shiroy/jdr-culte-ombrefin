@@ -14,6 +14,7 @@
 |----------------------|-----------------------------------------------------|
 | **Nom officiel**     | Hautefauche                                         |
 | **Surnoms & noms locaux** | _À compléter_                                |
+| **Gentilé**              | Haut-Faucheur (m.) / Haute-Faucheuse (f.)   |
 | **Localisation**     | Val-Doré, Calédonie — sur la route commerciale principale, à une journée de voyage de Pont-sur-Douve |
 | **Superficie / Taille** | Village de ~150 habitants                        |
 | **État actuel**      | Fragilisé — épidémie mystérieuse active, tensions sociales montantes |
