@@ -4,7 +4,7 @@ description: Faits canoniques fondamentaux établis dans MONDE.md — référenc
 type: project
 ---
 
-Le continent est divisé en deux grandes puissances séparées par un fleuve (appelé **Veyne** côté calédonien, **Aethros** côté finiorien).
+Le continent est divisé en deux grandes puissances séparées par un fleuve (appelé **Veyne** côté calédonien, **Aethros** côté finiorien, **Aevyne** dans les traités et textes diplomatiques bilatéraux).
 
 **Calédonie** : monarchie féodale à l'ouest, gouvernée par un roi dont l'autorité repose sur les serments de vassaux. Économie agricole et artisanale. En crise politique : le roi a tenté un rapprochement avec les finoriens, ce qui a déclenché un complot de nobles conservateurs qui ont partiellement réussi à affaiblir son autorité.
 
