@@ -74,7 +74,7 @@ _À compléter_
 
 ### 📌 Pont-sur-Douve — capitale du Val-Doré
 - **Description** : Bourg fortifié de ~10 000 habitants érigé autour d'un pont de pierre d'origine finorienne sur la Douve. Centre administratif et économique de la région.
-- **Particularité** : Siège d'Édouard de Champ-d'Or, Comte du Val-Doré — point de passage obligatoire pour tout le grain exporté vers la Veyne et les cités finoriennes. Voir [fiche dédiée](./PONT_SUR_DOUVE.md).
+- **Particularité** : Siège d'Édouard de Champ-d'Or, Comte du Val-Doré — point de passage obligatoire pour tout le grain exporté vers la Veyne et les cités finoriennes. Voir [fiche dédiée](./VAL_DORE/PONT_SUR_DOUVE.md).
 - **Ambiance spécifique** : Prospère et laborieux, avec une tension politique en sourdine liée à la crise du royaume
 
 ### 📌 Bourgs et hameaux ruraux
@@ -133,8 +133,8 @@ _À compléter_
 | **Dernière mise à jour**   | 2026-03-22                          |
 
 ### Liens vers les fiches associées
-- **Lieu parent** : [Calédonie](./CALEDONIE.md)
-- **Lieux enfants** : [Pont-sur-Douve](./PONT_SUR_DOUVE.md) — capitale et bourg fortifié
+- **Lieu parent** : [Calédonie](../CALEDONIE.md)
+- **Lieux enfants** : [Pont-sur-Douve](./VAL_DORE/PONT_SUR_DOUVE.md) — capitale et bourg fortifié
 - **PNJ associés** : _À compléter_
 - **Factions associées** : [Royaume de Calédonie](../../faction/ROYAUME_CALEDONIE.md), [Culte de l'Ombrefin](../../faction/CULTE_OMBREFIN.md), [Nobles conspirateurs](../../faction/NOBLES_CONSPIRATEURS.md)
 

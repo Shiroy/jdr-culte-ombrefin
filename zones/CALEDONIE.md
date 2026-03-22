@@ -82,7 +82,7 @@ Les Calédoniens sont un peuple rural et pragmatique, attaché aux traditions f�
 - **Description** : Région agricole fertile au centre du royaume, premier fournisseur de grain vers les cités finoriennes
 - **Particularité** : Principal théâtre de la campagne — le Culte de l'Ombrefin y mène ses premières opérations de déstabilisation
 - **Ambiance spécifique** : Pastoral en surface, menace souterraine
-- **Fiche détaillée** : [Val-Doré](./VAL_DORE.md)
+- **Fiche détaillée** : [Val-Doré](./CALEDONIE/VAL_DORE.md)
 
 ### 📌 Marches du Nord
 - **Description** : Forêts denses et peu domestiquées, territoire sauvage aux confins du royaume
@@ -144,9 +144,9 @@ Les Calédoniens sont un peuple rural et pragmatique, attaché aux traditions f�
 
 ### Liens vers les fiches associées
 - **Lieu parent** : _(continent — pas de fiche dédiée)_
-- **Lieux enfants** : [Val-Doré](./VAL_DORE.md)
+- **Lieux enfants** : [Val-Doré](./CALEDONIE/VAL_DORE.md)
 - **PNJ associés** : _À compléter_
-- **Factions associées** : [Royaume de Calédonie](../../faction/ROYAUME_CALEDONIE.md), [Nobles conspirateurs](../../faction/NOBLES_CONSPIRATEURS.md), [Culte de l'Ombrefin](../../faction/CULTE_OMBREFIN.md)
+- **Factions associées** : [Royaume de Calédonie](../faction/ROYAUME_CALEDONIE.md), [Nobles conspirateurs](../faction/NOBLES_CONSPIRATEURS.md), [Culte de l'Ombrefin](../faction/CULTE_OMBREFIN.md)
 
 ---
 
