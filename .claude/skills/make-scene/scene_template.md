@@ -13,6 +13,8 @@
 | Champ                   | Valeur                                                         |
 |-------------------------|----------------------------------------------------------------|
 | **Nom de la scène**     |                                                                |
+| **Aventure**            | _(lien vers `cadre.md` de l'aventure parente)_                 |
+| **Intrigue**            | _(lien vers `intrigue.md` — ou `Standalone` si hors intrigue)_ |
 | **Lieu**                | _(lien vers la fiche de zone)_                                 |
 | **Moment**              | _(jour/nuit, saison, contexte temporel dans la campagne)_      |
 | **Déclencheur**         | _(ce qui provoque la scène — action joueurs, event mondial…)_  |
@@ -148,11 +150,12 @@ _Description complète._
 | **Dernière mise à jour**   |                                                               |
 
 ### Liens vers les fiches associées
+- **Aventure** : _(lien vers `cadre.md`)_
+- **Intrigue** : _(lien vers `intrigue.md` — ou `Standalone`)_
 - **Zone** : _(lien vers la fiche de zone)_
 - **PNJ** : _(liens vers les fiches PNJ impliqués)_
 - **Scène précédente** : _(lien ou nom)_
 - **Scène suivante possible** : _(lien ou nom)_
-- **Quête associée** : _(lien ou nom)_
 
 ---
 
