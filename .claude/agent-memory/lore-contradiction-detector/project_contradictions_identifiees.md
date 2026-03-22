@@ -33,5 +33,9 @@ La "Secte de Myrkul" a été correctement renommée en "Culte de l'Ombrefin" dan
 - `campagne/introduction_joueurs.md` dit "succès partiel" des conspirateurs (moins grave)
 - À harmoniser avant les premières sessions.
 
+### Vérification 2026-03-22 (audit "Finoryn")
+
+Ajout du nom canonique "Finoryn" dans MONDE.md, zones/REGIONS_FINORIENNES.md, faction/REGIONS_FINORIENNES.md, campagne/introduction_joueurs.md. **Aucune nouvelle contradiction introduite.** Les fichiers non modifiés (CALEDONIE.md, VAL_DORE.md, CULTE_OMBREFIN.md, NOBLES_CONSPIRATEURS.md, ROYAUME_CALEDONIE.md) utilisent "Régions finoriennes" ou "cités finoriennes", ce qui est canoniquement correct selon la règle de nommage établie. Les contradictions #1, #2 et ambiguïtés #1, #2 restent non résolues et inchangées.
+
 **Why:** Résultats d'audit, utiles pour les corrections futures et pour éviter de signaler les mêmes problèmes deux fois.
 **How to apply:** Vérifier le statut de ces points avant chaque nouvel audit. Mettre à jour ce fichier si l'auteur confirme une résolution.

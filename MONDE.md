@@ -1,6 +1,6 @@
 # Présentation
 
-Un continent de médiéval-fantasy divisé en deux grandes puissances aux cultures opposées : le royaume féodal de **Calédonie** à l'ouest, et les cités-états magiques des **Régions finoriennes** à l'est. Les deux territoires sont séparés par un grand fleuve — appelé la **Veyne** côté calédonien, et l'**Aethros** côté finiorien — franchissable en quelques points de passage gardés comme des postes-frontières. La relation entre les deux puissances est cordiale en surface, mais teintée d'un mépris mutuel latent.
+Un continent de médiéval-fantasy divisé en deux grandes puissances aux cultures opposées : le royaume féodal de **Calédonie** à l'ouest, et les cités-états magiques des **Régions finoriennes** (officiellement **Finoryn**) à l'est. Les deux territoires sont séparés par un grand fleuve — appelé la **Veyne** côté calédonien, et l'**Aethros** côté finiorien — franchissable en quelques points de passage gardés comme des postes-frontières. La relation entre les deux puissances est cordiale en surface, mais teintée d'un mépris mutuel latent.
 
 # Histoire
 
@@ -11,6 +11,8 @@ Aujourd'hui, le royaume de Calédonie traverse une crise politique. Le roi, ayan
 Dans l'ombre, le **Culte de l'Ombrefin**, voué à **Myrkul**, Seigneur des Ossements, orchestre un complot pour précipiter une guerre entre la Calédonie et les régions finoriennes — une guerre qui produirait des millions de morts et hâterait le règne de leur dieu.
 
 # La géographie
+
+> **Canon de nommage — Finoryn** : Le nom officiel de l'union des cités-états est **Finoryn**. Ce nom est utilisé dans les traités, proclamations et textes de loi, ainsi que par les mages, diplomates et lettrés. Le peuple commun, les marchands et les Calédoniens utilisent "Régions finoriennes" dans le discours courant. L'adjectif "finorien/finorienne" est invariant. Les deux formes sont correctes selon le contexte.
 
 Les principales zones sont :
 

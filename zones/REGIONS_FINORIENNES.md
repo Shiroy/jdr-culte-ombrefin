@@ -1,8 +1,8 @@
-# Régions finoriennes
+# Régions finoriennes (Finoryn)
 
 ## Présentation
 
-Ensemble de cités-états indépendantes gouvernées par des mages, situées à l'est du continent. Chaque cité est souveraine, mais elles sont réunies au sein d'une fédération aux pouvoirs très limités. Le territoire est plus urbanisé que la Calédonie, les mages préférant importer leurs denrées plutôt que les produire.
+Ensemble de cités-états indépendantes gouvernées par des mages, situées à l'est du continent. Officiellement désignée **Finoryn** dans les traités et textes diplomatiques — terme utilisé par les mages et les lettrés —, l'union est communément appelée "Régions finoriennes" par le peuple et les Calédoniens. Chaque cité est souveraine, mais elles sont réunies au sein d'une fédération aux pouvoirs très limités. Le territoire est plus urbanisé que la Calédonie, les mages préférant importer leurs denrées plutôt que les produire.
 
 ## Géographie
 

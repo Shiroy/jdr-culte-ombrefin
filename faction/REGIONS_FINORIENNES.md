@@ -1,8 +1,10 @@
-# Régions finoriennes
+# Régions finoriennes (Finoryn)
 
 ## Type
 
 Magocratie — fédération lâche de cités-états
+
+**Nom officiel : Finoryn** — utilisé dans les traités et par les mages et lettrés. Le terme "Régions finoriennes" est la désignation courante employée par le peuple et les Calédoniens.
 
 ## Structure
 

@@ -10,10 +10,11 @@ type: project
 - Théâtre principal de la campagne mais aucun lieu nommé, aucun personnage local, aucun seigneur nommé.
 - Priorité : nommer la place forte centrale, le seigneur local, les bourgs principaux.
 
-**Régions finoriennes** (zone et faction)
+**Régions finoriennes / Finoryn** (zone et faction)
 - Les cités-états restent toutes anonymes et non différenciées.
 - Risque : toute mention future d'une cité spécifique pourrait contredire une autre mention.
 - Priorité : nommer et caractériser 2-3 cités majeures avec leurs archimages/conseils.
+- Note 2026-03-22 : le nom officiel "Finoryn" est maintenant établi. Toute cité nommée à l'avenir devra être présentée comme appartenant à "Finoryn" dans les contextes formels.
 
 ## Personnages non nommés (risque de contradiction lors de l'introduction)
 - Le roi de Calédonie : n'a pas de nom dans aucun fichier.
