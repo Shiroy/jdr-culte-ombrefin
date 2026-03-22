@@ -75,6 +75,30 @@ Ambiguités non bloquantes identifiées :
 Périmètre : zones/CALEDONIE/PONT_SUR_DOUVE.md — nouvelle fiche de localité.
 Résultat : **0 contradiction dure identifiée.** Cohérence globale de la fiche : Excellente.
 
+### Vérification 2026-03-22 (audit "HAUTEFAUCHE")
+Périmètre : zones/CALEDONIE/VAL_DORE/HAUTEFAUCHE.md (nouvelle fiche) et zones/CALEDONIE/VAL_DORE.md (mise à jour).
+Résultat : **1 contradiction mineure identifiée.** Cohérence globale de la fiche : Excellente.
+
+**Contradiction terminologique #1 — "Hameau" vs "Village"** (priorité basse, 1 mot à corriger)
+- HAUTEFAUCHE.md établit le type officiel "Village" (bailli, chapelle, auberge, moulin).
+- VAL_DORE.md ligne 81 utilise "Hameau de ~150 habitants" dans le bloc du point d'intérêt.
+- Action : remplacer "Hameau" par "Village" dans VAL_DORE.md ligne 81.
+
+**Ambiguité #1 — Distances géographiques du Val-Doré** (priorité faible)
+- "Plusieurs heures de route de Pont-sur-Douve" est la première donnée de distance du Val-Doré.
+- Risque lors de l'ajout de futures localités si les distances ne sont pas cohérentes entre elles.
+- Action : établir un tableau de distances relatives dans VAL_DORE.md quand 2-3 villages auront été créés.
+
+**Ambiguité #2 — Rumeur du marchand finorien** (priorité faible)
+- HAUTEFAUCHE.md mentionne (Incertain) que la maladie aurait été apportée par un marchand finorien.
+- La résolution canonique (fausse rumeur du Culte ? instrumentalisation réelle ?) n'est documentée nulle part.
+- Action : documenter dans CULTE_OMBREFIN.md ou une fiche de campagne une fois la décision prise.
+
+Données de référence nouvelles introduites par HAUTEFAUCHE.md :
+- Population d'un village agricole de relais : ~150 habitants
+- Autorité d'un village : bailli (pas de pouvoir coercitif, autorité morale)
+- Structure standard : chapelle Chauntea + auberge-relais + moulin = village agricole calédonien type
+
 **Ambiguité #1 — Place forte centrale de VAL_DORE.md vs Pont-sur-Douve** (priorité haute)
 - VAL_DORE.md liste "Place forte centrale" comme point d'intérêt distinct et cite Pont-sur-Douve comme lieu enfant.
 - PONT_SUR_DOUVE.md est la capitale administrative avec château comtal = équivalent fonctionnel de la "place forte centrale".

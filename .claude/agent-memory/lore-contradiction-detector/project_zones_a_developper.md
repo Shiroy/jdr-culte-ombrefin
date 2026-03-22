@@ -27,6 +27,13 @@ type: project
 - **Issue de la guerre ancienne** : PONT_SUR_DOUVE.md introduit un "geste d'apaisement" finorien comme origine du pont — premier ancrage vers une initiative finorienne de paix. Opportunité de trancher dans MONDE.md avant tout document in-world.
 - **Marchands finoriens** : présence en Calédonie mentionnée dans les fiches de zone mais pas dans faction/REGIONS_FINORIENNES.md. A documenter si rôle scénaristique.
 
+## Données de référence d'échelle introduites par HAUTEFAUCHE.md (2026-03-22)
+
+- Population d'un village agricole de relais : ~150 habitants
+- Autorité d'un village : bailli (autorité morale, sans pouvoir coercitif)
+- Structure canonique d'un village calédonien : chapelle Chauntea + auberge-relais + moulin
+- Première localité nommée du Val-Doré hors capitale (après Pont-sur-Douve). Distance : "plusieurs heures de route" de Pont-sur-Douve (non précisé en km/lieues — à affiner avec les prochaines fiches).
+
 ## Données de référence d'échelle introduites par PONT_SUR_DOUVE.md (2026-03-22)
 
 Ces valeurs sont les premières données chiffrées de l'univers — les utiliser comme référence lors des futures fiches.

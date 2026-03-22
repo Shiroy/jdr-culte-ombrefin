@@ -77,6 +77,11 @@ _À compléter_
 - **Particularité** : Siège d'Édouard de Champ-d'Or, Comte du Val-Doré — point de passage obligatoire pour tout le grain exporté vers la Veyne et les cités finoriennes. Voir [fiche dédiée](./VAL_DORE/PONT_SUR_DOUVE.md).
 - **Ambiance spécifique** : Prospère et laborieux, avec une tension politique en sourdine liée à la crise du royaume
 
+### 📌 Hautefauche — village agricole sur la route commerciale
+- **Description** : Village de ~150 habitants perché sur une colline dominant les champs, avec moulin, auberge-relais et chapelle de Chauntea. Situé à plusieurs heures de route de Pont-sur-Douve.
+- **Particularité** : Frappé par une mystérieuse épidémie — point de départ de la première aventure. Voir [fiche dédiée](./VAL_DORE/HAUTEFAUCHE.md).
+- **Ambiance spécifique** : Décor pastoral idyllique terni par la peur et la méfiance envers les étrangers
+
 ### 📌 Bourgs et hameaux ruraux
 - **Description** : Communautés dispersées dans la vallée, organisées autour de l'agriculture
 - **Particularité** : _À compléter_
@@ -134,7 +139,7 @@ _À compléter_
 
 ### Liens vers les fiches associées
 - **Lieu parent** : [Calédonie](../CALEDONIE.md)
-- **Lieux enfants** : [Pont-sur-Douve](./VAL_DORE/PONT_SUR_DOUVE.md) — capitale et bourg fortifié
+- **Lieux enfants** : [Pont-sur-Douve](./VAL_DORE/PONT_SUR_DOUVE.md) — capitale et bourg fortifié, [Hautefauche](./VAL_DORE/HAUTEFAUCHE.md) — village agricole sur la route commerciale
 - **PNJ associés** : _À compléter_
 - **Factions associées** : [Royaume de Calédonie](../../faction/ROYAUME_CALEDONIE.md), [Culte de l'Ombrefin](../../faction/CULTE_OMBREFIN.md), [Nobles conspirateurs](../../faction/NOBLES_CONSPIRATEURS.md)
 
