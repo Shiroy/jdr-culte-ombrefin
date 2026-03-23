@@ -159,7 +159,7 @@ Loyaliste du [Royaume de Calédonie](../../../../../faction/ROYAUME_CALEDONIE.md
 | **Dernière mise à jour** | 2026-03-22                                                        |
 
 ### Liens vers les fiches associées
-- **Zone(s) de présence** : [Pont-sur-Douve](../../PONT_SUR_DOUVE.md) — [Val-Doré](../../../VAL_DORE.md)
+- **Zone(s) de présence** : [Pont-sur-Douve](../../../PONT_SUR_DOUVE.md) — [Val-Doré](../../../../VAL_DORE.md)
 - **Faction(s)** : [Royaume de Calédonie](../../../../../faction/ROYAUME_CALEDONIE.md)
 - **PNJ liés** : _À compléter_
 - **Quêtes associées** : Enquête à Hautefauche (première aventure)
