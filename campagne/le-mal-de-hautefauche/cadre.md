@@ -31,24 +31,24 @@ L'épidémie s'étend aux villages voisins. La rumeur anti-finorienne se propage
 
 ## Déroulé de l'aventure
 
-### 1. Introduction *(standalone)*
-> Les joueurs, membres de la garnison de Pont-sur-Douve, sont convoqués à la caserne et reçoivent leur ordre de mission du Comte Édouard de Champ-d'Or. Ils partent ensuite pour Hautefauche.
+### 1. L'Ordre de Mission *(standalone)*
+> Les joueurs, membres de la garnison de Pont-sur-Douve, sont convoqués à la salle de commandement de la caserne par Gilles de Marnac. Le commandant leur confie une mission sensible au nom du Comte : enquêter discrètement sur une épidémie mystérieuse à Hautefauche. Il remet un pli scellé pour le bailli et insiste lourdement sur la discrétion — si la nouvelle filtre, l'autorité du Comte vacille. Les joueurs partent par la route du Val avec plus de questions que de réponses.
 
-📄 `scenes/introduction/scene.md`
+📄 [scenes/introduction/scene.md](scenes/introduction/scene.md)
 
 ---
 
 ### 1b. Avant le Départ *(standalone)*
 > Fenêtre libre dans Pont-sur-Douve avant de prendre la route. Les joueurs peuvent parcourir le Bourg Marchand, compléter leur équipement, visiter le temple de Chauntea ou s'approcher du Grand Pont. Les premières rumeurs sur Hautefauche commencent à circuler en ville — fragments, rien de précis.
 
-📄 `scenes/pont-sur-douve-avant-depart/scene.md`
+📄 [scenes/pont-sur-douve-avant-depart/scene.md](scenes/pont-sur-douve-avant-depart/scene.md)
 
 ---
 
 ### 1c. Le Marchand Offensé *(standalone)*
 > À mi-chemin entre Pont-sur-Douve et Hautefauche, les joueurs croisent Aldren de la Maison Luminis qui revient du village en roulotte, agacé par l'accueil hostile qu'il y a reçu. Il les interpelle en les prenant pour des représentants de l'autorité comtale. S'ils l'écoutent avec considération, il révèle sa suspicion d'une magie sombre à l'origine de l'épidémie et peut leur offrir un *Lexique des Runes Arcanes* utile pour la suite.
 
-📄 `scenes/rencontre-aldren/scene.md`
+📄 [scenes/rencontre-aldren/scene.md](scenes/rencontre-aldren/scene.md)
 
 ---
 
@@ -87,21 +87,25 @@ L'épidémie s'étend aux villages voisins. La rumeur anti-finorienne se propage
 
 ## PNJ clés
 
-| PNJ                          | Rôle dans l'aventure                                          | Fiche                                                                                          |
-|------------------------------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| Édouard de Champ-d'Or        | Commanditaire — donne l'ordre de mission, reçoit le rapport   | [Fiche](../../zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE/PNJ/EDOUARD_DE_CHAMP_D_OR.md)          |
-| Armand Lefebvre              | Bailli de Hautefauche — interlocuteur principal sur place     | [Fiche](../../zones/CALEDONIE/VAL_DORE/HAUTEFAUCHE/PNJ/ARMAND_LEFEBVRE.md)                    |
-| *(Chef de cellule — à créer)* | Antagoniste principal — boss du repaire                      | *(À créer lors de la création de l'intrigue Le Repaire)*                                       |
+| PNJ                          | Rôle dans l'aventure                                                        | Fiche                                                                                          |
+|------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| Édouard de Champ-d'Or        | Commanditaire en arrière-plan — reçoit le rapport final                     | [Fiche](../../zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE/PNJ/EDOUARD_DE_CHAMP_D_OR.md)          |
+| Gilles de Marnac             | Commandant de la garnison — donne l'ordre de mission au nom du Comte        | [Fiche](../../zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE/CASERNE.md)                             |
+| Armand Lefebvre              | Bailli de Hautefauche — interlocuteur principal sur place                   | [Fiche](../../zones/CALEDONIE/VAL_DORE/HAUTEFAUCHE/PNJ/ARMAND_LEFEBVRE.md)                    |
+| Aldren de la Maison Luminis  | Marchand finorien — source d'information sur la nature magique de l'épidémie | [Fiche](../../zones/CALEDONIE/VAL_DORE/PNJ/ALDREN_MAISON_LUMINIS.md)                         |
+| *(Chef de cellule — à créer)* | Antagoniste principal — boss du repaire                                    | *(À créer lors de la création de l'intrigue Le Repaire)*                                       |
 
 ---
 
 ## Lieux clés
 
-| Lieu              | Rôle dans l'aventure                                      | Fiche                                                                 |
-|-------------------|-----------------------------------------------------------|-----------------------------------------------------------------------|
-| Pont-sur-Douve    | Point de départ et d'arrivée — quartier général du Comte  | [Fiche](../../zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE.md)            |
-| Hautefauche       | Théâtre principal de l'enquête                            | [Fiche](../../zones/CALEDONIE/VAL_DORE/HAUTEFAUCHE.md)               |
-| Le Repaire        | Lieu du climax — à définir lors de la création de l'intrigue | *(À créer)*                                                        |
+| Lieu                          | Rôle dans l'aventure                                         | Fiche                                                                      |
+|-------------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------|
+| Pont-sur-Douve                | Point de départ et d'arrivée — quartier général du Comte     | [Fiche](../../zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE.md)                 |
+| Caserne de Pont-sur-Douve     | Lieu du briefing initial — salle de commandement de Marnac   | [Fiche](../../zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE/CASERNE.md)         |
+| Route commerciale du Val-Doré | Lieu de la rencontre avec Aldren, à mi-chemin vers Hautefauche | [Fiche](../../zones/CALEDONIE/VAL_DORE.md)                               |
+| Hautefauche                   | Théâtre principal de l'enquête                               | [Fiche](../../zones/CALEDONIE/VAL_DORE/HAUTEFAUCHE.md)                    |
+| Le Repaire                    | Lieu du climax — à définir lors de la création de l'intrigue | *(À créer)*                                                                |
 
 ---
 
