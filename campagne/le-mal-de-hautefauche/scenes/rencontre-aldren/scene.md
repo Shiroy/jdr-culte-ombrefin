@@ -26,7 +26,7 @@
 
 ## 📣 Texte de lecture
 
-> *"La route de campagne est calme à cette heure — champs dorés à perte de vue, vent tiède, ciel dégagé. Hautefauche est encore loin devant vous, invisible derrière les ondulations du terrain. Puis vous entendez, venant en sens inverse, le claquement de sabots et le grincement d'une roulotte. Elle apparaît au détour d'un virage : bien entretenue, ornée de motifs finoriens aux couleurs vives qui tranchent singulièrement avec le décor rural, tirée par deux chevaux à la robe lustrée. Sur le siège, un homme vêtu de soieries colorées vous aperçoit, tire légèrement sur les rênes — et avant même que vous puissiez parler, il ouvre la bouche."*
+> 📄 Voir [`intro.md`](./intro.md) — texte complet à lire aux joueurs, du départ de Pont-sur-Douve jusqu'à l'apparition de la roulotte.
 
 ---
 

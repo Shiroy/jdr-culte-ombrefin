@@ -16,7 +16,7 @@ C'est beau. Le genre de paysage qui donne envie de croire que tout va bien quelq
 
 Vous marchez depuis une heure, peut-être un peu plus. Hautefauche est encore loin devant vous, invisible derrière les ondulations du terrain. La route est tranquille — deux charrettes croisées depuis le départ, un bouvier qui rentrait ses bêtes.
 
-Puis vous entendez, venant en sens inverse, le claquement de sabots et le grincement d'une roulotte.
+Puis vous entendez, venant en sens inverse, le claquement de sabots et le grincement d'une roulotte. Elle apparaît au détour d'un virage : bien entretenue, ornée de motifs finoriens aux couleurs vives qui tranchent singulièrement avec le décor rural, tirée par deux chevaux à la robe lustrée. Sur le siège, un homme vêtu de soieries colorées vous aperçoit, tire légèrement sur les rênes — et avant même que vous puissiez parler, il ouvre la bouche.
 
 ---
 
