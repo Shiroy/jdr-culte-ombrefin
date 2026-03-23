@@ -63,22 +63,25 @@ La "Secte de Myrkul" a été correctement renommée en "Culte de l'Ombrefin" dan
 
 ### Audit PNJ EDOUARD_DE_CHAMP_D_OR — 2026-03-22
 
-**Contradiction L1 — Lien brisé vers Pont-sur-Douve (section "Zone(s) de présence")** — OUVERTE
-- Ligne 162 de la fiche PNJ : `../PONT_SUR_DOUVE.md`
-- Depuis `zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE/PNJ/`, ce chemin pointe vers `zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE/PONT_SUR_DOUVE.md` qui n'existe pas.
-- Fichier réel : `zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE.md`
-- Correction : remplacer `../PONT_SUR_DOUVE.md` par `../../PONT_SUR_DOUVE.md`
+**Contradiction L1 — Lien brisé vers Pont-sur-Douve (section "Zone(s) de présence")** ✅ RÉSOLUE (2026-03-22)
+- Corrigé : `../PONT_SUR_DOUVE.md` → `../../../PONT_SUR_DOUVE.md`
 
-**Contradiction L2 — Lien brisé vers Val-Doré (section "Zone(s) de présence")** — OUVERTE
-- Ligne 162 de la fiche PNJ : `../../VAL_DORE.md`
-- Depuis `zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE/PNJ/`, ce chemin pointe vers `zones/CALEDONIE/VAL_DORE/VAL_DORE.md` qui n'existe pas.
-- Fichier réel : `zones/CALEDONIE/VAL_DORE.md`
-- Correction : remplacer `../../VAL_DORE.md` par `../../../VAL_DORE.md`
+**Contradiction L2 — Lien brisé vers Val-Doré (section "Zone(s) de présence")** ✅ RÉSOLUE (2026-03-22)
+- Corrigé : `../../VAL_DORE.md` → `../../../../VAL_DORE.md`
 
-**Contradiction L3 — Deux chemins contradictoires vers faction/ROYAUME_CALEDONIE.md** — OUVERTE
-- Ligne 104 (section "Appartenance") : `../../../../faction/ROYAUME_CALEDONIE.md` — incorrect (remonte à `zones/faction/` inexistant)
-- Ligne 163 (section "Liens") : `../../../../../faction/ROYAUME_CALEDONIE.md` — correct (remonte à la racine puis `faction/`)
-- Correction : ligne 104, remplacer `../../../../faction/ROYAUME_CALEDONIE.md` par `../../../../../faction/ROYAUME_CALEDONIE.md`
+**Contradiction L3 — Deux chemins contradictoires vers faction/ROYAUME_CALEDONIE.md** ✅ RÉSOLUE (vérification 2026-03-22)
+- Ligne 104 déjà correcte dans le fichier (`../../../../../faction/ROYAUME_CALEDONIE.md`). La contradiction signalée ne correspondait plus à l'état réel du fichier.
+
+---
+
+### Audit ciblé — Gentilé "Haut-Faucheur / Haute-Faucheuse" — 2026-03-22
+
+**Résultat : AUCUNE CONTRADICTION INTRODUITE**
+
+- Le gentilé n'apparaît que dans `HAUTEFAUCHE.md` (ligne 17) — aucun conflit textuel avec aucun autre fichier.
+- Morphologie cohérente avec le nom du lieu et le registre linguistique de l'univers.
+- Observation structurelle : le champ "Gentilé" n'existe pas dans le template `make-zone/zone_template.md`. Recommandation : l'y ajouter entre "Surnoms & noms locaux" et "Localisation".
+- Lacune résiduelle non bloquante : Pont-sur-Douve n'a pas encore de gentilé.
 
 ---
 
@@ -102,3 +105,42 @@ Cohérence vérifiée sur les points suivants :
 
 **Why:** Résultats d'audit, utiles pour les corrections futures et pour éviter de signaler les mêmes problèmes deux fois.
 **How to apply:** Vérifier le statut de ces points avant chaque nouvel audit. Mettre à jour ce fichier si l'auteur confirme une résolution.
+
+---
+
+### Audit CASERNE.md — 2026-03-22
+
+**Résultat : AUCUNE CONTRADICTION DÉTECTÉE**
+
+Cohérence vérifiée sur les points suivants :
+- Effectif garnison 150-200 soldats : cohérent avec PONT_SUR_DOUVE.md (ligne 69)
+- Lieu parent Pont-sur-Douve, lien `../PONT_SUR_DOUVE.md` : correct depuis `PONT_SUR_DOUVE/`
+- Lien faction `../../../../faction/ROYAUME_CALEDONIE.md` : correct (4 niveaux depuis `PONT_SUR_DOUVE/`)
+- PNJ Édouard de Champ-d'Or comme commanditaire ultime : cohérent avec EDOUARD_DE_CHAMP_D_OR.md et cadre.md
+- Lien `./PNJ/EDOUARD_DE_CHAMP_D_OR.md` et `./PNJ/GILLES_DE_MARNAC.md` : cohérents avec la structure du dossier
+- Tyr mentionné (amulettes personnelles) : cohérent avec la chapelle Tyr du château-comtal dans PONT_SUR_DOUVE.md
+- Gilles de Marnac (nouveau PNJ) : non mentionné ailleurs, pas de conflit — fiche à créer ultérieurement
+- PONT_SUR_DOUVE.md mis à jour (lieux enfants) : lien `./PONT_SUR_DOUVE/CASERNE.md` correct
+- Lacune résiduelle non bloquante : Gilles de Marnac n'a pas encore de fiche PNJ dédiée (signalé dans les liens de CASERNE.md)
+
+---
+
+### Audit PNJ ALDREN_MAISON_LUMINIS — 2026-03-23
+
+**Résultat : AUCUNE CONTRADICTION DE LORE — 3 erreurs de chemins relatifs à corriger**
+
+Cohérence de lore vérifiée sur les points suivants :
+- Race humain, origine finorienne : cohérent (VAL_DORE.md mentionne "Marchands finoriens — Diverses races")
+- Maison marchande mineure dans une magocratie : cohérent et bien exploité narrativement (REGIONS_FINORIENNES.md)
+- Renégociation commerciale dans l'instabilité calédonienne : cohérent avec REGIONS_FINORIENNES.md ("certaines cités cherchent à renégocier les termes commerciaux")
+- Présence sur la route commerciale du Val-Doré : cohérent (VAL_DORE.md confirme la présence de marchands finoriens)
+- Rôle de fausse piste épidémie Hautefauche : cohérent avec HAUTEFAUCHE.md (rumeur "(Faux)" déjà établie)
+- Indépendance politique vis-à-vis des cités-états : cohérent avec la structure fédérale lâche de REGIONS_FINORIENNES.md
+- Bienfaiteur anonyme (dette) : volontairement non défini, aucun conflit possible
+
+**Erreurs de chemins relatifs (non bloquantes pour le lore) :**
+- `../VAL_DORE/HAUTEFAUCHE.md` → doit être `../HAUTEFAUCHE.md` (depuis `VAL_DORE/PNJ/`)
+- `../VAL_DORE.md` → doit être `../../VAL_DORE.md`
+- `../../../faction/REGIONS_FINORIENNES.md` → doit être `../../../../faction/REGIONS_FINORIENNES.md`
+
+**Pattern récurrent confirmé** : les erreurs de profondeur de chemins relatifs dans les fiches PNJ sont un défaut structurel récurrent (déjà identifié sur EDOUARD_DE_CHAMP_D_OR, ARMAND_LEFEBVRE). Les PNJ dans `VAL_DORE/PNJ/` sont à 4 niveaux de profondeur depuis la racine : `../../../../` pour atteindre `faction/`.

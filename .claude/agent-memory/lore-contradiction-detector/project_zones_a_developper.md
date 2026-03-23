@@ -27,6 +27,10 @@ type: project
 - **Issue de la guerre ancienne** : PONT_SUR_DOUVE.md introduit un "geste d'apaisement" finorien comme origine du pont — premier ancrage vers une initiative finorienne de paix. Opportunité de trancher dans MONDE.md avant tout document in-world.
 - **Marchands finoriens** : présence en Calédonie mentionnée dans les fiches de zone mais pas dans faction/REGIONS_FINORIENNES.md. A documenter si rôle scénaristique.
 
+## Champ "Gentilé" — divergence template vs fiches (signalé 2026-03-22)
+
+Le champ `Gentilé` a été introduit dans `HAUTEFAUCHE.md` mais n'existe pas dans `make-zone/zone_template.md`. Recommandation : ajouter ce champ au template entre "Surnoms & noms locaux" et "Localisation". Pont-sur-Douve n'a pas encore de gentilé (non bloquant).
+
 ## Données de référence d'échelle introduites par HAUTEFAUCHE.md (2026-03-22)
 
 - Population d'un village agricole de relais : ~150 habitants
