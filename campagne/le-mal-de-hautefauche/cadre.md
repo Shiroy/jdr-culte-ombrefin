@@ -45,6 +45,13 @@ L'épidémie s'étend aux villages voisins. La rumeur anti-finorienne se propage
 
 ---
 
+### 1c. Le Marchand Offensé *(standalone)*
+> À mi-chemin entre Pont-sur-Douve et Hautefauche, les joueurs croisent Aldren de la Maison Luminis qui revient du village en roulotte, agacé par l'accueil hostile qu'il y a reçu. Il les interpelle en les prenant pour des représentants de l'autorité comtale. S'ils l'écoutent avec considération, il révèle sa suspicion d'une magie sombre à l'origine de l'épidémie et peut leur offrir un *Lexique des Runes Arcanes* utile pour la suite.
+
+📄 `scenes/rencontre-aldren/scene.md`
+
+---
+
 ### 2. Intrigues d'enquête *(parallèles)*
 
 #### 2a. Intrigue d'enquête A
