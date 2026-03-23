@@ -2,9 +2,9 @@
 
 ---
 
-La porte sud de Pont-sur-Douve se referme dans votre dos avec un bruit sourd.
+La porte nord de Pont-sur-Douve se referme dans votre dos avec un bruit sourd.
 
-Devant vous, la route commerciale s'étire vers le sud en ligne presque droite, bordée de fossés peu profonds. Les dernières maisons de la ville cèdent vite la place aux champs. En quelques minutes, vous avez quitté les pavés pour la terre battue — et la ville a disparu derrière un rideau de peupliers.
+Devant vous, la route commerciale s'étire vers le nord en ligne presque droite, bordée de fossés peu profonds. Les dernières maisons de la ville cèdent vite la place aux champs. En quelques minutes, vous avez quitté les pavés pour la terre battue — et la ville a disparu derrière un rideau de peupliers.
 
 Le Val-Doré s'ouvre alors.
 

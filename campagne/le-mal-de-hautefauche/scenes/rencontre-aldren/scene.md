@@ -37,7 +37,7 @@
 | **Vue**         | Route de terre battue entre deux étendues de blé. La roulotte est impossible à manquer : boiseries décorées de motifs entrelacés typiquement finoriens, touches de bleu et d'or sur les panneaux, deux chevaux au poil brillant. Sur le siège, Aldren en soieries colorées — verts et bordeaux, taillées avec soin — forme une silhouette presque anachronique sur cette route de campagne calédonienne. |
 | **Sons**        | Sabots réguliers sur les graviers, grincement des roues, harnachement qui cliquète, vent dans les épis |
 | **Odeurs**      | Blé chaud, poussière de route, et depuis la roulotte entrouverte, un mélange d'épices, d'encre et de tissu neuf — les marchandises finoriennes |
-| **Température** | Chaleur tempérée de plein jour, brise agréable |
+| **Température** | Froid de fin d'automne adouci par le soleil de midi — le vent s'est calmé, on ne voit plus son souffle, mais les manteaux restent boutonnés |
 | **Atmosphère**  | Contraste saisissant entre la sérénité du paysage rural et cette roulotte colorée qui en sort comme un objet étranger — puis l'agitation contenue de l'homme sur le siège |
 
 ---
