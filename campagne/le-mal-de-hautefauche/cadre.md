@@ -38,6 +38,13 @@ L'épidémie s'étend aux villages voisins. La rumeur anti-finorienne se propage
 
 ---
 
+### 1b. Avant le Départ *(standalone)*
+> Fenêtre libre dans Pont-sur-Douve avant de prendre la route. Les joueurs peuvent parcourir le Bourg Marchand, compléter leur équipement, visiter le temple de Chauntea ou s'approcher du Grand Pont. Les premières rumeurs sur Hautefauche commencent à circuler en ville — fragments, rien de précis.
+
+📄 `scenes/pont-sur-douve-avant-depart/scene.md`
+
+---
+
 ### 2. Intrigues d'enquête *(parallèles)*
 
 #### 2a. Intrigue d'enquête A
