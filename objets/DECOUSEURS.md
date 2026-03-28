@@ -116,10 +116,6 @@ Le rituel requiert **les deux porteurs** simultanément :
 - Si Nelthar est neutralisé avant que les joueurs n'activent le retour, ils sont bloqués dans l'Entre-Monde jusqu'au prochain passage
 - Les morts récents d'Hautefauche errent dans l'Entre-Monde — victimes de l'épidémie, présences muettes et troublantes
 
-### Conséquences de possession
-
-S'emparer des deux Découseurs prive Nelthar de tout accès à son repaire depuis l'extérieur. Le Conseil de l'Ombre pourrait chercher à les récupérer si leur existence venait à être connue.
-
 ---
 
 ## Métadonnées
