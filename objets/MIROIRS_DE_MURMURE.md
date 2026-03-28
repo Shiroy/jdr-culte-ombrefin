@@ -27,3 +27,11 @@ La capture d'un miroir peut permettre aux PJ d'intercepter des communications et
 ## Origine
 
 Inconnue. Il est possible que leur création soit liée au fondateur mage finorien, ou qu'ils aient été fournis directement par l'Assemblée du Dernier Souffle.
+
+---
+
+## Métadonnées
+
+- **Faction(s) liée(s)** : [Culte de l'Ombrefin](../faction/CULTE_OMBREFIN.md)
+- **PNJ lié(s)** : —
+- **Zone(s) connue(s)** : —

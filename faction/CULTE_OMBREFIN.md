@@ -7,7 +7,7 @@ Culte secret transnational
 ## Références
 
 - [L'Assemblée du Dernier Souffle](./ASSEMBLEE_DERNIER_SOUFFLE.md) — les cinq dieux vénérés
-- [Les Miroirs de Murmure](./MIROIRS_DE_MURMURE.md) — artefacts de communication du culte
+- [Les Miroirs de Murmure](../objets/MIROIRS_DE_MURMURE.md) — artefacts de communication du culte
 
 ## Présentation
 

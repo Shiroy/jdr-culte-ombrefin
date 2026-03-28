@@ -20,6 +20,10 @@ Les principales zones sont :
   - [Val-Doré](./zones/CALEDONIE/VAL_DORE.md) — sous-région agricole de Calédonie, principal théâtre de la campagne
 - [Régions finoriennes (Finoryn)](./zones/REGIONS_FINORIENNES.md) — fédération de cités-états orientales
 
+# Objets notables
+
+Les artefacts, reliques et équipements emblématiques sont dans [objets/](./objets/) — voir [conventions de structure](./objets/CONVENTIONS_OBJETS.md).
+
 # Factions
 
 Les factions sont :
