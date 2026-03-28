@@ -8,7 +8,7 @@ Il y a plusieurs siècles, une grande guerre opposa les ancêtres des calédonie
 
 Aujourd'hui, le royaume de Calédonie traverse une crise politique. Le roi, ayant tenté un rapprochement diplomatique avec certaines cités finoriennes, s'est attiré l'hostilité de nobles conservateurs qui ont comploté dans son dos pour saper son autorité. Cette crise de pouvoir a ouvert une compétition entre seigneurs vassaux pour l'influence sur le royaume.
 
-Dans l'ombre, le **Culte de l'Ombrefin**, voué à **Myrkul**, Seigneur des Ossements, orchestre un complot pour précipiter une guerre entre la Calédonie et les régions finoriennes — une guerre qui produirait des millions de morts et hâterait le règne de leur dieu.
+Dans l'ombre, le **Culte de l'Ombrefin**, voué à **l'Assemblée du Dernier Souffle** — une cabale de cinq divinités mineures assoiffées de puissance —, orchestre un complot pour précipiter une guerre entre la Calédonie et les régions finoriennes — une guerre qui produirait des millions de morts et hâterait l'ascension de leurs dieux.
 
 # La géographie
 

@@ -10,7 +10,7 @@ Cellule du Culte de l'Ombrefin dédiée à Valtar, le Seigneur de la Peste. Resp
 
 ### Nelthar — Ombremage
 
-Mage finorien renégat, dévot de Valtar. Vit en ermite dans un demi-plan isolé, inaccessible depuis le monde physique autrement que par les Fragments de l'Antre. Se fait passer pour un marchand itinérant les rares fois où il doit se montrer.
+Mage finorien renégat, dévot de Valtar. Vit en ermite dans un demi-plan isolé, inaccessible depuis le monde physique autrement que par les Fragments de l'Antre. Se fait passer pour un marchand itinérant finorien lors de ses visites ponctuelles au village. Il a délibérément choisi cette couverture en sachant que Hautefauche, étape régulière sur une route commerciale vers Finoryn, voit passer suffisamment de marchands finoriens pour qu'aucun ne soit mémorisé. Lors de ses passages, il "vend" des potions de peste à Orvain et en profite pour communiquer avec ses acolytes.
 
 **Passé :** Enfant, il a accidentellement tué sa sœur lors d'un jeu banal. Il ne se l'est jamais pardonné. Cette culpabilité l'a poussé à étudier la magie nécromantique dans l'espoir de la ramener. Le culte a instrumentalisé cette obsession en lui promettant que la puissance de Valtar lui permettrait un jour d'accomplir ce but — une promesse mensongère qui le maintient sous contrôle. Nelthar le soupçonne peut-être, mais préfère ne pas y penser.
 
@@ -71,9 +71,9 @@ Demi-plan isolé créé et entretenu par Nelthar. Invisible et introuvable depui
 
 ## Méthodes opératoires
 
-- **Contamination du lait** par Orvain — vecteur initial, crédible, difficile à relier à une intention malveillante
-- **Observation des malades** par Bran — suivi de l'évolution, identification des cibles prioritaires
-- **Manipulation des rumeurs** — la présence récente d'Aldren de la Maison Luminis (marchand finorien) a été exploitée pour orienter les soupçons vers Finoryn
+- **Contamination du lait** — Nelthar remet des potions de peste à Orvain lors de ses passages au village, sous couverture d'une transaction commerciale banale. Orvain les mélange au lait de ses bêtes, vecteur initial de l'épidémie.
+- **Observation des malades** par Bran — suivi de l'évolution, identification des cibles prioritaires.
+- **Confusion des identités** — Nelthar visite le village sous l'apparence d'un marchand finorien itinérant, couverture choisie car Hautefauche est une étape régulière sur une route commerciale vers Finoryn. Quand l'épidémie éclate, les villageois cherchent un "marchand finorien de passage" — et Aldren, présent peu avant l'éclosion, correspond exactement au profil. La rumeur émerge d'elle-même.
 
 ---
 

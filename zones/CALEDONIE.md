@@ -119,7 +119,7 @@ Les Calédoniens sont un peuple rural et pragmatique, attaché aux traditions f�
 | **Présence magique**      | Faible — la Calédonie n'est pas une terre de magie. Les biens magiques sont importés de Finoryn |
 | **Phénomènes récurrents** | _À compléter_ |
 | **Objets / Lieux sacrés** | _À compléter_ |
-| **Divinités associées**   | _À compléter_ (Myrkul vénéré en secret par le Culte de l'Ombrefin) |
+| **Divinités associées**   | _À compléter_ (l'Assemblée du Dernier Souffle vénérée en secret par le Culte de l'Ombrefin) |
 
 ---
 

@@ -111,10 +111,10 @@ _À compléter_
 
 | Champ                     | Description                          |
 |---------------------------|--------------------------------------|
-| **Présence magique**      | Faible en apparence — mais le Culte de l'Ombrefin y mène des activités occultes liées à Myrkul |
+| **Présence magique**      | Faible en apparence — mais le Culte de l'Ombrefin y mène des activités occultes liées à l'Assemblée du Dernier Souffle |
 | **Phénomènes récurrents** | _À compléter_ |
 | **Objets / Lieux sacrés** | _À compléter_ |
-| **Divinités associées**   | Myrkul (vénéré en secret par le Culte de l'Ombrefin) |
+| **Divinités associées**   | l'Assemblée du Dernier Souffle (vénérée en secret par le Culte de l'Ombrefin) |
 
 ---
 
