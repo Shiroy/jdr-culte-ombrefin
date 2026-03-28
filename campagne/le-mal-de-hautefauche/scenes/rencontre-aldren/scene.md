@@ -19,7 +19,7 @@
 | **Moment**              | Journée — en route vers Hautefauche, après le départ de Pont-sur-Douve ; le village n'est pas encore visible |
 | **Déclencheur**         | Les joueurs croisent la roulotte d'Aldren qui revient en sens inverse            |
 | **Prérequis**           | Avoir quitté Pont-sur-Douve (après la scène "Avant le Départ")                  |
-| **PNJ impliqués**       | [Aldren de la Maison Luminis](../../../../zones/CALEDONIE/VAL_DORE/PNJ/ALDREN_MAISON_LUMINIS.md) |
+| **PNJ impliqués**       | [Aldren de la Maison Luminis](../../../../pnj/ALDREN_MAISON_LUMINIS.md) |
 | **Durée estimée**       | 15–20 min                                                                       |
 
 ---
@@ -173,7 +173,7 @@ Il reprend les rênes. Si on l'en empêche physiquement, il invoque calmement l'
 - **Aventure** : [Le Mal de Hautefauche](../../cadre.md)
 - **Intrigue** : Standalone
 - **Zone** : [Val-Doré — route commerciale](../../../../zones/CALEDONIE/VAL_DORE.md), entre [Pont-sur-Douve](../../../../zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE.md) et [Hautefauche](../../../../zones/CALEDONIE/VAL_DORE/HAUTEFAUCHE.md)
-- **PNJ** : [Aldren de la Maison Luminis](../../../../zones/CALEDONIE/VAL_DORE/PNJ/ALDREN_MAISON_LUMINIS.md)
+- **PNJ** : [Aldren de la Maison Luminis](../../../../pnj/ALDREN_MAISON_LUMINIS.md)
 - **Scène précédente** : [Avant le Départ](../pont-sur-douve-avant-depart/scene.md)
 - **Scène suivante possible** : Arrivée à Hautefauche
 

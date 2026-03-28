@@ -140,7 +140,7 @@ _À compléter_
 ### Liens vers les fiches associées
 - **Lieu parent** : [Calédonie](../CALEDONIE.md)
 - **Lieux enfants** : [Pont-sur-Douve](./VAL_DORE/PONT_SUR_DOUVE.md) — capitale et bourg fortifié, [Hautefauche](./VAL_DORE/HAUTEFAUCHE.md) — village agricole sur la route commerciale
-- **PNJ associés** : [Édouard de Champ-d'Or](./VAL_DORE/PONT_SUR_DOUVE/PNJ/EDOUARD_DE_CHAMP_D_OR.md) — Comte du Val-Doré
+- **PNJ associés** : [Édouard de Champ-d'Or](../../pnj/EDOUARD_DE_CHAMP_D_OR.md) — Comte du Val-Doré
 - **Factions associées** : [Royaume de Calédonie](../../faction/ROYAUME_CALEDONIE.md), [Culte de l'Ombrefin](../../faction/CULTE_OMBREFIN.md), [Nobles conspirateurs](../../faction/NOBLES_CONSPIRATEURS.md)
 
 ---

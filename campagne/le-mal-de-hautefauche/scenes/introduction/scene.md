@@ -166,7 +166,7 @@ Si le joueur persiste : mise aux arrêts pour insubordination, voir résolution 
 - **Aventure** : [Le Mal de Hautefauche — cadre.md](../../cadre.md)
 - **Intrigue** : Standalone
 - **Zone** : [Caserne de Pont-sur-Douve](../../../../zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE/CASERNE.md)
-- **PNJ** : [Gilles de Marnac](../../../../zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE/CASERNE.md) — [Armand Lefebvre](../../../../zones/CALEDONIE/VAL_DORE/HAUTEFAUCHE/PNJ/ARMAND_LEFEBVRE.md) *(destinataire du pli)*
+- **PNJ** : [Gilles de Marnac](../../../../zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE/CASERNE.md) — [Armand Lefebvre](../../../../pnj/ARMAND_LEFEBVRE.md) *(destinataire du pli)*
 - **Scène précédente** : Aucune — ouverture de campagne
 - **Scène suivante possible** : Arrivée à Hautefauche *(à créer)*
 

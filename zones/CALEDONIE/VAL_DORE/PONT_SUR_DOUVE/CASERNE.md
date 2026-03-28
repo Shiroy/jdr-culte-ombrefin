@@ -147,7 +147,7 @@ La caserne fonctionne selon un rituel quotidien immuable : lever avant l'aube, e
 ### Liens vers les fiches associées
 - **Lieu parent** : [Pont-sur-Douve](../PONT_SUR_DOUVE.md)
 - **Lieux enfants** : _Aucun_
-- **PNJ associés** : [Édouard de Champ-d'Or](./PNJ/EDOUARD_DE_CHAMP_D_OR.md) — Comte du Val-Doré, commanditaire ultime ; [Gilles de Marnac](./PNJ/GILLES_DE_MARNAC.md) — Capitaine de la garnison *(fiche à créer)*
+- **PNJ associés** : [Édouard de Champ-d'Or](../../../../pnj/EDOUARD_DE_CHAMP_D_OR.md) — Comte du Val-Doré, commanditaire ultime ; [Gilles de Marnac](../../../../pnj/GILLES_DE_MARNAC.md) — Capitaine de la garnison *(fiche à créer)*
 - **Factions associées** : [Royaume de Calédonie](../../../../faction/ROYAUME_CALEDONIE.md)
 
 ---

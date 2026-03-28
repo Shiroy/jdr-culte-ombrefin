@@ -101,7 +101,7 @@ La mort de son épouse. Il n'en parle pas. Ceux qui l'ont bien connu avant et ap
 | Clergé de Chauntea | Institutionnel | Respectueux mais distant | Il finance le temple, consulte le prêtre en chef sur les questions agricoles |
 
 ### Appartenance à des factions
-Loyaliste du [Royaume de Calédonie](../../../../../faction/ROYAUME_CALEDONIE.md) — rang : Comte. Loyauté affichée totale, loyauté réelle en train de vaciller silencieusement.
+Loyaliste du [Royaume de Calédonie](../faction/ROYAUME_CALEDONIE.md) — rang : Comte. Loyauté affichée totale, loyauté réelle en train de vaciller silencieusement.
 
 ### Attitude envers les joueurs
 **Hiérarchique** — ils sont ses soldats. Il attend d'eux compétence, discrétion et honnêteté. S'ils accomplissent leur mission à Hautefauche et lui rapportent la vérité sur le Culte, sa confiance peut évoluer vers quelque chose de plus personnel — un commandant qui reconnaît des hommes de valeur.
@@ -159,8 +159,8 @@ Loyaliste du [Royaume de Calédonie](../../../../../faction/ROYAUME_CALEDONIE.md
 | **Dernière mise à jour** | 2026-03-22                                                        |
 
 ### Liens vers les fiches associées
-- **Zone(s) de présence** : [Pont-sur-Douve](../../../PONT_SUR_DOUVE.md) — [Val-Doré](../../../../VAL_DORE.md)
-- **Faction(s)** : [Royaume de Calédonie](../../../../../faction/ROYAUME_CALEDONIE.md)
+- **Zone(s) de présence** : [Pont-sur-Douve](../zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE.md) — [Val-Doré](../zones/CALEDONIE/VAL_DORE.md)
+- **Faction(s)** : [Royaume de Calédonie](../faction/ROYAUME_CALEDONIE.md)
 - **PNJ liés** : _À compléter_
 - **Quêtes associées** : Enquête à Hautefauche (première aventure)
 

@@ -168,8 +168,8 @@ Officiellement sous l'autorité du Comté du Val-Doré. Loyal au Comte Édouard 
 | **Dernière mise à jour** | 2026-03-22                                                  |
 
 ### Liens vers les fiches associées
-- **Zone(s) de présence** : [Hautefauche](../../HAUTEFAUCHE.md)
-- **Faction(s)** : [Royaume de Calédonie](../../../../../faction/ROYAUME_CALEDONIE.md)
+- **Zone(s) de présence** : [Hautefauche](../zones/CALEDONIE/VAL_DORE/HAUTEFAUCHE.md)
+- **Faction(s)** : [Royaume de Calédonie](../faction/ROYAUME_CALEDONIE.md)
 - **PNJ liés** : Le prêtre de Chauntea _(fiche à créer)_, l'aubergiste _(fiche à créer)_
 - **Quêtes associées** : Épidémie de Hautefauche — première aventure
 

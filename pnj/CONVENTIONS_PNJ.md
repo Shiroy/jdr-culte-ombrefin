@@ -2,21 +2,15 @@
 
 ## Règle fondamentale
 
-Les PNJs sont **co-localisés avec leur zone** : les fiches de personnages présents dans une zone se trouvent dans un sous-dossier `PNJ/` à l'intérieur du dossier enfant de cette zone.
+Toutes les fiches PNJ sont centralisées dans le dossier **`pnj/`** à la racine du projet, quelle que soit la zone géographique de rattachement du personnage.
 
 ```
-zones/
-├─ CALEDONIE.md
-├─ CALEDONIE/
-│  ├─ VAL_DORE.md
-│  ├─ VAL_DORE/
-│  │  ├─ PONT_SUR_DOUVE.md
-│  │  ├─ PONT_SUR_DOUVE/
-│  │  │  ├─ PNJ/
-│  │  │  │  ├─ ALDRIC_FERRANT.md    ← PNJ présent à Pont-sur-Douve
-│  │  │  │  ├─ MIRA_LA_BOITEUSE.md
-│  │  ├─ PNJ/
-│  │  │  ├─ COMTE_EDRAN.md          ← PNJ à l'échelle du Val-Doré
+pnj/
+├─ CONVENTIONS_PNJ.md
+├─ ARMAND_LEFEBVRE.md
+├─ EDOUARD_DE_CHAMP_D_OR.md
+├─ ALDREN_MAISON_LUMINIS.md
+├─ ...
 ```
 
 ## Règles de nommage
@@ -27,29 +21,15 @@ zones/
 
 ## Zone de rattachement
 
-Un PNJ est rattaché à la **zone la plus précise** où il est habituellement présent :
-- Un garde de la caserne → dans `PONT_SUR_DOUVE/PNJ/`
-- Un noble qui gouverne le Val-Doré → dans `VAL_DORE/PNJ/`
-- Un archimage itinérant à l'échelle de la Calédonie → dans `CALEDONIE/PNJ/`
-
-## PNJs sans ancrage géographique fixe
-
-Les PNJs itinérants ou à portée mondiale sont rangés dans :
-
-```
-pnj/
-├─ CONVENTIONS_PNJ.md
-├─ PNJ_ITINERANTS/
-│  ├─ NOM_DU_PNJ.md
-```
+La zone de rattachement d'un PNJ est documentée dans les **métadonnées de la fiche** (champ `Zone(s) de présence`), pas dans la structure de dossiers.
 
 ## Liens relatifs
 
 | Depuis | Vers | Lien |
 |--------|------|------|
-| `VAL_DORE/PNJ/COMTE_EDRAN.md` | zone de présence | `../VAL_DORE.md` |
-| `VAL_DORE.md` | PNJ de la zone | `./VAL_DORE/PNJ/COMTE_EDRAN.md` |
-| `VAL_DORE/PNJ/COMTE_EDRAN.md` | autre PNJ de la même zone | `./MIRA_LA_BOITEUSE.md` |
+| `pnj/ARMAND_LEFEBVRE.md` | zone de présence | `../zones/CALEDONIE/VAL_DORE/HAUTEFAUCHE.md` |
+| `zones/CALEDONIE/VAL_DORE/HAUTEFAUCHE.md` | PNJ de la zone | `../../pnj/ARMAND_LEFEBVRE.md` |
+| `campagne/mon-aventure/cadre.md` | fiche PNJ | `../../pnj/ARMAND_LEFEBVRE.md` |
 
 ## Métadonnées des fiches
 

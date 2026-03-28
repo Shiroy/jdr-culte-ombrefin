@@ -138,7 +138,7 @@ Village ancré dans le rythme des saisons agricoles et la dévotion à Chauntea.
 ### Liens vers les fiches associées
 - **Lieu parent** : [Val-Doré](../VAL_DORE.md)
 - **Lieux enfants** : _À compléter_
-- **PNJ associés** : [Armand Lefebvre (bailli)](./HAUTEFAUCHE/PNJ/ARMAND_LEFEBVRE.md), l'aubergiste, le meunier, le prêtre de Chauntea — _fiches à créer_
+- **PNJ associés** : [Armand Lefebvre (bailli)](../../../pnj/ARMAND_LEFEBVRE.md), l'aubergiste, le meunier, le prêtre de Chauntea — _fiches à créer_
 - **Factions associées** : [Royaume de Calédonie](../../../faction/ROYAUME_CALEDONIE.md), [Culte de l'Ombrefin](../../../faction/CULTE_OMBREFIN.md)
 
 ---

@@ -89,10 +89,10 @@ L'épidémie s'étend aux villages voisins. La rumeur anti-finorienne se propage
 
 | PNJ                          | Rôle dans l'aventure                                                        | Fiche                                                                                          |
 |------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| Édouard de Champ-d'Or        | Commanditaire en arrière-plan — reçoit le rapport final                     | [Fiche](../../zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE/PNJ/EDOUARD_DE_CHAMP_D_OR.md)          |
+| Édouard de Champ-d'Or        | Commanditaire en arrière-plan — reçoit le rapport final                     | [Fiche](../../pnj/EDOUARD_DE_CHAMP_D_OR.md)          |
 | Gilles de Marnac             | Commandant de la garnison — donne l'ordre de mission au nom du Comte        | [Fiche](../../zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE/CASERNE.md)                             |
-| Armand Lefebvre              | Bailli de Hautefauche — interlocuteur principal sur place                   | [Fiche](../../zones/CALEDONIE/VAL_DORE/HAUTEFAUCHE/PNJ/ARMAND_LEFEBVRE.md)                    |
-| Aldren de la Maison Luminis  | Marchand finorien — source d'information sur la nature magique de l'épidémie | [Fiche](../../zones/CALEDONIE/VAL_DORE/PNJ/ALDREN_MAISON_LUMINIS.md)                         |
+| Armand Lefebvre              | Bailli de Hautefauche — interlocuteur principal sur place                   | [Fiche](../../pnj/ARMAND_LEFEBVRE.md)                    |
+| Aldren de la Maison Luminis  | Marchand finorien — source d'information sur la nature magique de l'épidémie | [Fiche](../../pnj/ALDREN_MAISON_LUMINIS.md)                         |
 | *(Chef de cellule — à créer)* | Antagoniste principal — boss du repaire                                    | *(À créer lors de la création de l'intrigue Le Repaire)*                                       |
 
 ---

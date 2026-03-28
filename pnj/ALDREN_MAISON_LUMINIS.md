@@ -159,8 +159,8 @@ _Non applicable — Aldren est un marchand sans capacités magiques connues. Fin
 | **Dernière mise à jour** | 2026-03-23                                                        |
 
 ### Liens vers les fiches associées
-- **Zone(s) de présence** : [Val-Doré](../../VAL_DORE.md), route vers [Hautefauche](../HAUTEFAUCHE.md)
-- **Faction(s)** : [Régions finoriennes (Finoryn)](../../../../faction/REGIONS_FINORIENNES.md)
+- **Zone(s) de présence** : [Val-Doré](../zones/CALEDONIE/VAL_DORE.md), route vers [Hautefauche](../zones/CALEDONIE/VAL_DORE/HAUTEFAUCHE.md)
+- **Faction(s)** : [Régions finoriennes (Finoryn)](../faction/REGIONS_FINORIENNES.md)
 - **PNJ liés** : _À compléter selon la campagne_
 - **Quêtes associées** : Le Mal de Hautefauche (première aventure)
 
