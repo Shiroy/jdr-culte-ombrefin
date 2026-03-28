@@ -12,14 +12,14 @@
 
 ## Situation initiale
 
-Le village d'Hautefauche, petit bourg agricole du Val-Doré situé à une journée de Pont-sur-Douve, est frappé depuis peu par une épidémie mystérieuse. Le Comte Édouard de Champ-d'Or, inquiet pour sa région et pour les routes commerciales vitales qui la traversent, mandate des membres de sa garnison pour enquêter discrètement. Une rumeur court déjà dans le village : la maladie aurait été apportée par un marchand finorien de passage. La réalité est tout autre — une cellule du Culte de l'Ombrefin, vouée à Myrkul, a délibérément provoqué cette épidémie pour déstabiliser la région et attiser la méfiance envers Finoryn.
+Le village d'Hautefauche, petit bourg agricole du Val-Doré situé à une journée de Pont-sur-Douve, est frappé depuis peu par une épidémie mystérieuse. Le Comte Édouard de Champ-d'Or, inquiet pour sa région et pour les routes commerciales vitales qui la traversent, mandate des membres de sa garnison pour enquêter discrètement. Une rumeur court déjà dans le village : la maladie aurait été apportée par un marchand finorien de passage. La réalité est tout autre — une cellule du Culte de l'Ombrefin, vouée à Valtar le Seigneur de la Peste, a délibérément provoqué cette épidémie pour déstabiliser la région et attiser la méfiance envers Finoryn.
 
 ---
 
 ## Situation finale
 
 ### Fin principale *(canonique)*
-Les joueurs identifient et neutralisent la cellule du Culte responsable de l'épidémie dans son repaire secret. Hautefauche peut guérir et reprendre son activité normale. La rumeur anti-finorienne est au moins partiellement désamorcée. En fouillant le repaire, les joueurs trouvent sur le ou les responsables un symbole inconnu — un crâne blanc sur fond noir — ainsi que des documents fragmentaires laissant entendre qu'une organisation plus vaste est derrière tout cela. Ils rentrent à Pont-sur-Douve faire leur rapport au Comte avec plus de questions que de réponses.
+Les joueurs identifient et neutralisent la cellule du Culte responsable de l'épidémie dans son repaire secret. Hautefauche peut guérir et reprendre son activité normale. La rumeur anti-finorienne est au moins partiellement désamorcée. En fouillant le repaire, les joueurs trouvent sur le ou les responsables un symbole inconnu — une mouche aux ailes déployées — ainsi que des documents fragmentaires laissant entendre qu'une organisation plus vaste est derrière tout cela. Ils rentrent à Pont-sur-Douve faire leur rapport au Comte avec plus de questions que de réponses.
 
 ### Succès partiel
 Les joueurs guérissent le village (ou stoppent la progression de l'épidémie) mais le ou les responsables disparaissent sans laisser de traces exploitables. L'épidémie est stoppée, mais le fil menant à la cellule reste froid. La rumeur anti-finorienne continue de circuler sans être démentie formellement.
@@ -93,7 +93,7 @@ L'épidémie s'étend aux villages voisins. La rumeur anti-finorienne se propage
 | Gilles de Marnac             | Commandant de la garnison — donne l'ordre de mission au nom du Comte        | [Fiche](../../zones/CALEDONIE/VAL_DORE/PONT_SUR_DOUVE/CASERNE.md)                             |
 | Armand Lefebvre              | Bailli de Hautefauche — interlocuteur principal sur place                   | [Fiche](../../pnj/ARMAND_LEFEBVRE.md)                    |
 | Aldren de la Maison Luminis  | Marchand finorien — source d'information sur la nature magique de l'épidémie | [Fiche](../../pnj/ALDREN_MAISON_LUMINIS.md)                         |
-| *(Chef de cellule — à créer)* | Antagoniste principal — boss du repaire                                    | *(À créer lors de la création de l'intrigue Le Repaire)*                                       |
+| Nelthar                       | Antagoniste principal — Ombremage de Valtar, boss du repaire               | [Fiche cellule](cellule-valtar.md)                                                             |
 
 ---
 
