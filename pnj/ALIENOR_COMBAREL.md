@@ -96,7 +96,7 @@ L'abandon de son mari est la blessure centrale. Elle ne s'est jamais expliqué p
 ### Cercle proche
 | Nom / Groupe     | Nature du lien        | Intensité          | Notes                       |
 |------------------|-----------------------|--------------------|-----------------------------|
-| Le meunier       | Liaison secrète       | Profonde, cachée   | Seul lien affectif réel — fiche à créer |
+| [Auguste Morel](AUGUSTE_MOREL.md) | Liaison secrète | Profonde, cachée | Seul lien affectif réel — avec lui elle s'autorise à ne pas être parfaite |
 | [Armand Lefebvre](ARMAND_LEFEBVRE.md) | Respect mutuel distant | Cordiale mais froide | Il la respecte professionnellement ; a pris ses distances depuis le départ du mari |
 | [Marie Dubourg](MARIE_DUBOURG.md) | Irritation contenue   | Unilatérale        | Marie propage la rumeur que son mari l'a quittée car sa "froideur" ne pouvait le satisfaire — lui a valu les surnoms "La Sans-Feu" et "la froide". Aliénor encaisse sans jamais répondre. |
 
@@ -162,7 +162,7 @@ Aucune.
 ### Liens vers les fiches associées
 - **Zone(s) de présence** : [Hautefauche](../zones/CALEDONIE/VAL_DORE/HAUTEFAUCHE.md)
 - **Faction(s)** : _Aucune_
-- **PNJ liés** : [Armand Lefebvre](ARMAND_LEFEBVRE.md), [Marie Dubourg](MARIE_DUBOURG.md), le meunier _(fiche à créer)_
+- **PNJ liés** : [Armand Lefebvre](ARMAND_LEFEBVRE.md), [Marie Dubourg](MARIE_DUBOURG.md), [Auguste Morel](AUGUSTE_MOREL.md)
 - **Quêtes associées** : [Le Mal de Hautefauche](../campagne/le-mal-de-hautefauche/cadre.md)
 
 ---

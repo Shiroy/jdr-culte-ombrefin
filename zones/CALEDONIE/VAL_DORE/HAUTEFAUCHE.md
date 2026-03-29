@@ -64,7 +64,7 @@ Village agricole établi de longue date, Hautefauche doit son nom à sa position
 | Paysans & fermiers | Humains          | Production agricole | Méfiants, paranoïaques depuis l'épidémie |
 | L'aubergiste       | Humain           | Tient le relais de route — principal contact des voyageurs | Pragmatique, entre accueil commercial et méfiance ambiante |
 | Aliénor Combarel   | Humaine          | Apothicaire — soigne les malades de l'épidémie, observatrice précise | Méfiante mais professionnelle |
-| Le meunier         | Humain           | Gère le moulin, figure économique centrale | _À définir_ |
+| Auguste Morel      | Humain           | Meunier — gère le moulin, veuf inconsolable, amant secret d'Aliénor | Méfiant, fermé — ni hostile ni coopératif |
 | Le prêtre de Chauntea | Humain        | Gardien spirituel du village, très sollicité depuis l'épidémie | Ouvert, mais épuisé et inquiet |
 | Malades du village | Humains          | Habitants frappés par l'épidémie | _Sans objet_ |
 
@@ -139,7 +139,7 @@ Village ancré dans le rythme des saisons agricoles et la dévotion à Chauntea.
 ### Liens vers les fiches associées
 - **Lieu parent** : [Val-Doré](../VAL_DORE.md)
 - **Lieux enfants** : _À compléter_
-- **PNJ associés** : [Armand Lefebvre (bailli)](../../../pnj/ARMAND_LEFEBVRE.md), [Thomin Beaufort dit "Le Gros Thomin" (aubergiste)](../../../pnj/THOMIN_BEAUFORT.md), [Marie Dubourg (commère)](../../../pnj/MARIE_DUBOURG.md), [Aliénor Combarel dite Dame Rose (apothicaire)](../../../pnj/ALIENOR_COMBAREL.md), le meunier, le prêtre de Chauntea — _fiches à créer_
+- **PNJ associés** : [Armand Lefebvre (bailli)](../../../pnj/ARMAND_LEFEBVRE.md), [Thomin Beaufort dit "Le Gros Thomin" (aubergiste)](../../../pnj/THOMIN_BEAUFORT.md), [Marie Dubourg (commère)](../../../pnj/MARIE_DUBOURG.md), [Aliénor Combarel dite Dame Rose (apothicaire)](../../../pnj/ALIENOR_COMBAREL.md), [Auguste Morel (meunier)](../../../pnj/AUGUSTE_MOREL.md), le prêtre de Chauntea — _fiche à créer_
 - **Factions associées** : [Royaume de Calédonie](../../../faction/ROYAUME_CALEDONIE.md), [Culte de l'Ombrefin](../../../faction/CULTE_OMBREFIN.md)
 
 ---
