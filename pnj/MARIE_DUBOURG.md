@@ -95,6 +95,7 @@ La mort de Gilles l'a brisée plus qu'elle ne l'admet. Elle n'en parle jamais. S
 ### Cercle proche
 | Nom / Groupe     | Nature du lien        | Intensité          | Notes                       |
 |------------------|-----------------------|--------------------|-----------------------------|
+| [Aliénor Combarel](ALIENOR_COMBAREL.md) | Cible de prédilection | Malveillance déguisée en compassion | Marie propage la rumeur que son mari l'a quittée car sa "froideur" ne pouvait le satisfaire — lui a inventé les surnoms "La Sans-Feu" et "la froide". Se dit "désolée pour elle" en souriant. |
 | [Armand Lefebvre](ARMAND_LEFEBVRE.md) | Bailli du village | Tendue / Comique | Elle lui apporte constamment des "informations" ; il l'écoute avec lassitude polie et ne la croit qu'à moitié |
 | [Thomin Beaufort](THOMIN_BEAUFORT.md) | Aubergiste | Complicité involontaire | Il reprend ses rumeurs sans le vouloir vraiment — ses clients les propagent ensuite |
 | "Mes cousins" | Réseau imaginaire dans les villages voisins | Revendiqué fort | Probablement réel mais très exagéré ; source de "nouvelles du dehors" |
