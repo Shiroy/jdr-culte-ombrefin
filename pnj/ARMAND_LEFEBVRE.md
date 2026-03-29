@@ -97,7 +97,7 @@ Il sait qu'il est en train de mourir. Il ne se le dit pas explicitement — il y
 | Nom / Groupe         | Nature du lien           | Intensité | Notes                                                              |
 |----------------------|--------------------------|-----------|--------------------------------------------------------------------|
 | Habitants de Hautefauche | Communauté / famille de substitution | Très forte | Il connaît chaque famille depuis trois générations — c'est sa force et son angle mort |
-| Le prêtre de Chauntea | Allié de crise           | Forte     | Ils s'appuient l'un sur l'autre depuis le début de l'épidémie ; le prêtre est l'un des seuls en qui il confie ses doutes |
+| [Anselme Fauché (le Père Fauché)](./ANSELME_FAUCHE.md) | Vieille amitié, allié de crise | Forte | Ils s'appuient l'un sur l'autre depuis le début de l'épidémie ; le prêtre est l'un des seuls en qui il confie ses doutes |
 | L'aubergiste         | Relation de travail / confiance | Modérée | Point de contact avec les voyageurs ; Armand s'y rend régulièrement prendre le pouls des rumeurs |
 | Ses enfants          | Famille éloignée         | Distante  | Partis vivre ailleurs dans le Val-Doré ; il ne les a pas prévenus de sa maladie |
 
@@ -170,7 +170,7 @@ Officiellement sous l'autorité du Comté du Val-Doré. Loyal au Comte Édouard 
 ### Liens vers les fiches associées
 - **Zone(s) de présence** : [Hautefauche](../zones/CALEDONIE/VAL_DORE/HAUTEFAUCHE.md)
 - **Faction(s)** : [Royaume de Calédonie](../faction/ROYAUME_CALEDONIE.md)
-- **PNJ liés** : Le prêtre de Chauntea _(fiche à créer)_, l'aubergiste _(fiche à créer)_
+- **PNJ liés** : [Anselme Fauché dit le Père Fauché (prêtre de Chauntea)](./ANSELME_FAUCHE.md), l'aubergiste _(fiche à créer)_
 - **Quêtes associées** : Épidémie de Hautefauche — première aventure
 
 ---
