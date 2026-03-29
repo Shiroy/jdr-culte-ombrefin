@@ -54,10 +54,10 @@ L'épidémie s'étend aux villages voisins. La rumeur anti-finorienne se propage
 
 ### 2. Intrigues d'enquête *(parallèles)*
 
-#### 2a. Intrigue d'enquête A
-> *(Contenu à définir — donne un indice partiel sur la cellule.)*
+#### 2a. L'Ombre de l'Apothicaire
+> Une silhouette nocturne ressemblant à Aliénor Combarel est aperçue près du moulin. Marie Dubourg propage des accusations, une émeute éclate à l'aube, et la cellule de Valtar envoie des goules pour éliminer l'apothicaire — la seule vraie menace à la propagation de l'épidémie. Les joueurs peuvent la sauver ou la perdre selon leurs choix.
 
-📁 `enquete/`
+📁 [ombre-apothicaire/intrigue.md](ombre-apothicaire/intrigue.md)
 
 #### 2b. Intrigue d'enquête B
 > *(Contenu à définir — donne un indice partiel sur la cellule.)*
