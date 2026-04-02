@@ -10,7 +10,7 @@ Cellule du Culte de l'Ombrefin dédiée à Valtar, le Seigneur de la Peste. Resp
 
 ### Nelthar — Ombremage
 
-Mage finorien renégat, dévot de Valtar. Vit en ermite dans un demi-plan isolé, inaccessible depuis le monde physique autrement que par les Fragments de l'Antre. Se fait passer pour un marchand itinérant finorien lors de ses visites ponctuelles au village. Il a délibérément choisi cette couverture en sachant que Hautefauche, étape régulière sur une route commerciale vers Finoryn, voit passer suffisamment de marchands finoriens pour qu'aucun ne soit mémorisé. Lors de ses passages, il "vend" des potions de peste à Orvain et en profite pour communiquer avec ses acolytes.
+Mage finorien renégat, dévot de Valtar. Vit en ermite dans un demi-plan isolé, inaccessible depuis le monde physique autrement que par les Fragments de l'Antre. Se fait passer pour un marchand itinérant finorien lors de ses visites ponctuelles au village. Il a délibérément choisi cette couverture en sachant que Hautefauche, étape régulière sur une route commerciale vers Finoryn, voit passer suffisamment de marchands finoriens pour qu'aucun ne soit mémorisé. Lors de ses passages, il "vend" des potions de peste à Orvain et des [Sceaux de Mouche](../../objets/SCEAU_DE_MOUCHE.md) à Bran — des os gravés du symbole de Valtar qui permettent de relever les morts préparés — et en profite pour communiquer avec ses acolytes.
 
 **Passé :** Enfant, il a accidentellement tué sa sœur lors d'un jeu banal. Il ne se l'est jamais pardonné. Cette culpabilité l'a poussé à étudier la magie nécromantique dans l'espoir de la ramener. Le culte a instrumentalisé cette obsession en lui promettant que la puissance de Valtar lui permettrait un jour d'accomplir ce but — une promesse mensongère qui le maintient sous contrôle. Nelthar le soupçonne peut-être, mais préfère ne pas y penser.
 
@@ -23,6 +23,8 @@ Mage finorien renégat, dévot de Valtar. Vit en ermite dans un demi-plan isolé
 Fossoyeur d'Hautefauche, cinquantaine d'années. Présent dans le village depuis toujours — personne ne le remarque vraiment. Sa fréquentation quotidienne des corps et des zones d'inhumation est parfaitement banale pour son métier. Il observe l'évolution de l'épidémie au plus près et transmet ses rapports à Nelthar via Orvain.
 
 **Découseur :** Porte le [Découseur de Mort](../../objets/DECOUSEURS.md) — chevalière de pierre noire incrustée d'une mouche en obsidienne.
+
+**Sceaux de Mouche :** Porte plusieurs [Sceaux de Mouche](../../objets/SCEAU_DE_MOUCHE.md) liés aux cadavres qu'il a préparés dans le cimetière de Hautefauche. Outil offensif fourni par Nelthar lors de ses passages sous couverture marchande.
 
 ---
 
