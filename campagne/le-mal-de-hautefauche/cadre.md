@@ -64,10 +64,10 @@ L'épidémie s'étend aux villages voisins. La rumeur anti-finorienne se propage
 
 📁 [veillee-des-morts/intrigue.md](veillee-des-morts/intrigue.md)
 
-#### 2c. Intrigue d'enquête C *(optionnelle)*
-> *(Contenu à définir — donne un indice partiel sur la cellule.)*
+#### 2c. Le Témoin du Val *(obligatoire)*
+> Marie Dubourg a observé sans le comprendre les transactions régulières et brèves entre Orvain et un "marchand finorien" depuis sa fenêtre sur la place. Son témoignage mène les joueurs au berger, porteur du Découseur de Vie — la seconde clé nécessaire pour ouvrir le portail vers l'Entre-Monde où se terrer Nelthar.
 
-📁 `enquete/`
+📁 [temoin-du-val/intrigue.md](temoin-du-val/intrigue.md)
 
 ---
 
