@@ -25,10 +25,17 @@ Les soupçons du village se cristallisent autour d'Aliénor Combarel, l'apothica
 
 ---
 
-### 2. L'Arrestation Préventive *(standalone)*
-> Au petit matin, les rumeurs propagées par Marie Dubourg s'embrasent en émeute sur la place du marché. Armand Lefebvre et Anselme Fauché, dépassés, prennent la décision d'une arrestation préventive d'Aliénor — officiellement pour l'interroger, officieusement pour la mettre hors de portée de la foule. Les joueurs sont chargés de l'escorter depuis son officine.
+### 2. L'Émeute du Marché *(standalone)*
+> Au petit matin, les rumeurs propagées par Marie Dubourg s'embrasent en émeute sur la place du marché. Armand Lefebvre et Anselme Fauché sont dépassés. Les joueurs sont appelés en urgence pour maintenir l'ordre. Armand finit par prononcer publiquement l'ordre d'arrestation d'Aliénor au nom du Comte, et confie aux joueurs la mission d'aller la chercher à son officine.
 
-📄 `scenes/l-arrestation-preventive/scene.md`
+📄 [scenes/l-emeute-du-marche/scene.md](scenes/l-emeute-du-marche/scene.md)
+
+---
+
+### 2b. L'Arrestation Préventive *(standalone)*
+> Les joueurs se rendent à l'officine d'Aliénor Combarel pour l'escorter. Selon la vitesse à laquelle ils ont quitté la place, ils peuvent arriver avant la foule ou au même moment qu'elle. Aliénor, méfiante et terrifiée, doit être convaincue de suivre volontairement — ou contrainte si la foule est déjà là. La scène se clôt quand elle est hors de portée du village.
+
+📄 `scenes/l-arrestation-preventive/scene.md` *(à créer)*
 
 ---
 
