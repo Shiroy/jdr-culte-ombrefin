@@ -59,10 +59,10 @@ L'épidémie s'étend aux villages voisins. La rumeur anti-finorienne se propage
 
 📁 [ombre-apothicaire/intrigue.md](ombre-apothicaire/intrigue.md)
 
-#### 2b. Intrigue d'enquête B
-> *(Contenu à définir — donne un indice partiel sur la cellule.)*
+#### 2b. La Veillée des Morts
+> Le registre d'Armand révèle des anomalies dans les enterrements du fossoyeur Bran. Le Père Fauché confirme une tradition de veillées nocturnes solitaires que Bran a lui-même instaurée. Les joueurs espionnent une veillée et découvrent le fossoyeur en train de profaner un cadavre — rituel de préparation pour en faire un mort-vivant. Bran acculé active ses Sceaux de Mouche : les tombes du cimetière s'ouvrent sur des visages connus. Les joueurs récupèrent le Découseur de Mort.
 
-📁 `enquete/`
+📁 [veillee-des-morts/intrigue.md](veillee-des-morts/intrigue.md)
 
 #### 2c. Intrigue d'enquête C *(optionnelle)*
 > *(Contenu à définir — donne un indice partiel sur la cellule.)*
