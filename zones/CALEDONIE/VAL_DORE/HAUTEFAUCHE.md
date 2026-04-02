@@ -90,7 +90,7 @@ Village ancré dans le rythme des saisons agricoles et la dévotion à Chauntea.
 
 ### 📌 La Chapelle de Chauntea
 - **Description** : Petite chapelle en pierre au centre du village, entourée d'un jardin cultivé. Dédiée à Chauntea, déesse de l'agriculture et des récoltes.
-- **Particularité** : Lieu de rassemblement spirituel en temps de crise — le prêtre tente de maintenir le moral des habitants. Symboliquement en opposition avec les forces de Myrkul qui rôdent dans la région.
+- **Particularité** : Lieu de rassemblement spirituel en temps de crise — le prêtre tente de maintenir le moral des habitants. Symboliquement en opposition avec les puissances de mort et de corruption qui semblent rôder dans la région.
 - **Ambiance spécifique** : Encens, bougies allumées en nombre inhabituel pour les malades, voix basses en prière
 
 ---

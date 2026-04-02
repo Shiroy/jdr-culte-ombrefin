@@ -45,5 +45,13 @@ Ces valeurs sont les premières données chiffrées de l'univers — les utilise
 - Garnison d'un comte de sous-région : 150-200 soldats professionnels
 - Divinités calédoniennes canoniques : Chauntea (peuple, agriculture), Tyr (noblesse, justice institutionnelle)
 
-**Why:** Identifié lors de l'audit du 2026-03-22. Les zones peu détaillées sont les premières sources de contradictions lors des ajouts de contenu.
-**How to apply:** Signaler ces lacunes lors des demandes de développement. Veiller à la cohérence dès l'introduction des premiers noms propres.
+## Observations post-audit 2026-04-02 — Structure de campagne
+
+- La structure de campagne s'est enrichie : aventure "Le Mal de Hautefauche" avec intrigues parallèles (L'Ombre de l'Apothicaire), scènes détaillées, fiches PNJ complètes pour Hautefauche.
+- **Pattern de risque identifié** : les résumés d'intrigue (intrigue.md) et les scènes de transition ont tendance à introduire des incohérences car rédigés après les fiches de zone/PNJ. Surveiller particulièrement ces fichiers lors des audits.
+- Les fiches PNJ de Hautefauche (Anselme Fauché, Auguste Morel, Aliénor Combarel, Armand Lefebvre) sont exemplaires en termes de cohérence mutuelle.
+- Hautefauche est bien développé, mais : pas de fiche dédiée pour l'aubergiste "Thomin Beaufort" (fiche existe dans pnj/ mais non encore présent dans VAL_DORE/HAUTEFAUCHE.md links).
+- **Zone toujours vide** : Gilles de Marnac (capitaine garnison) est mentionné dans CASERNE.md mais n'a pas de fiche PNJ dédiée (signalé depuis 2026-03-22).
+
+**Why:** Identifié lors des audits du 2026-03-22 et 2026-04-02. Les zones peu détaillées et les scènes de transition sont les premières sources de contradictions lors des ajouts de contenu.
+**How to apply:** Signaler ces lacunes lors des demandes de développement. Veiller à la cohérence dès l'introduction des premiers noms propres. Relire systématiquement les fiches de zone/PNJ avant de créer une scène qui les référence.

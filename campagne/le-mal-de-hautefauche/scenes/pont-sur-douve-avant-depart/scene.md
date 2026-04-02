@@ -171,9 +171,9 @@ Le temple est ouvert et chaleureux — odeur d'herbes séchées et de cire, quel
 - Des herbes médicinales simples (équivalent de l'artisan apothicaire, 2 po la dose).
 - L'adresse de l'apothicaire du Bourg Marchand pour des potions de soin.
 - Une bénédiction de voyage gratuite (effet narratif : le MJ peut y revenir plus tard).
-- Si les joueurs mentionnent Hautefauche : Frère Anseau s'assombrit légèrement. *"Le frère Bertrand est à Hautefauche — il dessert le bourg depuis dix ans. Il n'a pas envoyé de courrier depuis trois semaines. C'est inhabituel."* Il ne sait pas pourquoi — mais il est inquiet. Cette information peut aider les joueurs plus tard sur place.
+- Si les joueurs mentionnent Hautefauche : Frère Anseau s'assombrit légèrement. *"Le Père Anselme est à Hautefauche — il dessert la chapelle depuis plus de trente ans. Il n'a pas envoyé de courrier depuis trois semaines. C'est inhabituel."* Il ne sait pas pourquoi — mais il est inquiet. Cette information peut aider les joueurs plus tard sur place.
 
-> **Note MJ** : Frère Bertrand est un fil à glisser subtilement. Si les joueurs y pensent en arrivant à Hautefauche, c'est un point d'entrée supplémentaire.
+> **Note MJ** : Le Père Anselme est un fil à glisser subtilement. Si les joueurs y pensent en arrivant à Hautefauche, c'est un point d'entrée supplémentaire.
 
 [↩ Retour aux points de décision](#-points-de-décision)
 

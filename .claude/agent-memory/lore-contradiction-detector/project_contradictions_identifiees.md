@@ -1,15 +1,15 @@
 ---
-name: Contradictions et ambiguïtés identifiées — audit 2026-03-22
-description: Résultat de l'audit complet du 2026-03-22 — contradictions identifiées, statut de résolution
+name: Contradictions et ambiguïtés identifiées — audits 2026-03-22 et 2026-04-02
+description: Résultat des audits complets — contradictions identifiées, statut de résolution par session
 type: project
 ---
 
 ## Audit effectué le 2026-03-22
 
-### Renommage vérifié
-La "Secte de Myrkul" a été correctement renommée en "Culte de l'Ombrefin" dans tous les fichiers. Aucune occurrence résiduelle de l'ancienne appellation. Myrkul subsiste uniquement comme nom de la divinité (légitime).
+### Renommage vérifié (2026-03-22)
+La "Secte de Myrkul" a été correctement renommée en "Culte de l'Ombrefin" dans tous les fichiers à cette date. Myrkul était encore la divinité de l'ennemi à ce moment. Depuis, le lore a évolué vers l'Assemblée du Dernier Souffle (5 dieux homebrew) — Myrkul résiduel dans HAUTEFAUCHE.md est désormais une erreur (voir audit 2026-04-02).
 
-### Contradictions résolues
+### Contradictions résolues (2026-03-22)
 
 **Contradiction #1 — Accord grammatical** ✅ RÉSOLUE
 **Contradiction #2 — Puissance des cités finoriennes** ✅ RÉSOLUE
@@ -20,127 +20,63 @@ La "Secte de Myrkul" a été correctement renommée en "Culte de l'Ombrefin" dan
 **Contradiction terminologique — "Hameau" vs "Village"** ✅ RÉSOLUE
 **Contradiction POI — "Place forte centrale" anonyme** ✅ RÉSOLUE
 **Contradiction PNJ — Seigneur local anonyme** ✅ RÉSOLUE
-**Contradiction T1 — Liens brisés dans MONDE.md** ✅ RÉSOLUE (2026-03-22)
-**Contradiction T2 — Chemin relatif brisé dans zones/REGIONS_FINORIENNES.md** ✅ RÉSOLUE (2026-03-22)
+**Contradiction T1 — Liens brisés dans MONDE.md** ✅ RÉSOLUE
+**Contradiction T2 — Chemin relatif brisé dans REGIONS_FINORIENNES.md** ✅ RÉSOLUE
 
----
-
-### Ambiguïtés résolues (session 2026-03-22)
+### Ambiguïtés résolues (2026-03-22)
 
 **Rumeur du marchand finorien (Hautefauche)** ✅ TRANCHÉE
 - Décision : rumeur spontanée née de la peur et de la paranoïa collective. Pas de fondement réel, pas de manipulation du Culte.
 - Marquée "(Faux)" dans HAUTEFAUCHE.md.
 
 **Nobles conspirateurs au Val-Doré** ✅ TRANCHÉE
-- Décision : seigneurs vassaux d'autres régions de Calédonie qui convoitent le Val-Doré pour son poids économique et son levier vers le trône. Pas d'agents infiltrés sur place.
-- Documenté dans faction/NOBLES_CONSPIRATEURS.md.
+- Décision : seigneurs vassaux d'autres régions de Calédonie qui convoitent le Val-Doré pour son poids économique. Pas d'agents infiltrés sur place.
 
 **Nom neutre du fleuve** ✅ TRANCHÉ
-- Décision : **L'Aevyne** — nom diplomatique bilatéral utilisé dans les traités et textes officiels.
-- Documenté dans MONDE.md (présentation).
+- Décision : **L'Aevyne** — nom diplomatique bilatéral utilisé dans les traités.
 
 **Distance Hautefauche — Pont-sur-Douve** ✅ TRANCHÉE
 - Décision : une journée de voyage.
-- Mis à jour dans HAUTEFAUCHE.md (identité + localisation) et VAL_DORE.md (POI Hautefauche).
+
+### Ambiguïtés ouvertes (non bloquantes, 2026-03-22)
+
+**Ambiguïté — Nom du continent** → Décision reportée
+**Ambiguïté — Marchands finoriens (statut passif/actif)** → Décision reportée
+**Ambiguïté — Étymologie de "Ombrefin"** → Volontairement mystérieux
+**Ambiguïté — Distances entre autres localités du Val-Doré** → À établir plus tard
+
+### Audits PNJ et lieux (2026-03-22 et 2026-03-23)
+EDOUARD_DE_CHAMP_D_OR : 3 erreurs de chemins relatifs ✅ RÉSOLUES
+ARMAND_LEFEBVRE : aucune contradiction ✅
+CASERNE : aucune contradiction ✅
+ALDREN_MAISON_LUMINIS : aucune contradiction de lore, 3 erreurs de chemins relatifs ✅ identifiées
+HAUTEFAUCHE gentilé : aucune contradiction ✅
 
 ---
 
-### Ambiguïtés toujours ouvertes (non bloquantes)
+## Audit effectué le 2026-04-02
 
-**Ambiguïté — Nom du continent**
-- Décision reportée : inutile pour l'instant, à nommer quand un texte in-world l'exigera.
+### ⚠️ Mise à jour majeure du canon détectée
+Le Culte de l'Ombrefin est désormais voué à **l'Assemblée du Dernier Souffle** (5 dieux homebrew), NON à Myrkul. Le canon fondamental a été mis à jour en conséquence dans la mémoire agent.
 
-**Ambiguïté — Marchands finoriens**
-- Décision reportée : statut (passif ou actif) à définir selon les besoins scénaristiques.
+### Contradictions identifiées (non encore résolues)
 
-**Ambiguïté — Étymologie de "Ombrefin"**
-- Volontairement mystérieux. L'auteur se réserve la possibilité de définir l'étymologie plus tard.
+**Contradiction A1 — Prêtre de Hautefauche : "Frère Bertrand" vs "Anselme Fauché"** ✅ RÉSOLUE (2026-04-02)
+- "Frère Bertrand" / "dix ans" remplacé par "Père Anselme" / "plus de trente ans" dans `pont-sur-douve-avant-depart/scene.md` Bloc C.
 
-**Ambiguïté — Distances entre autres localités du Val-Doré**
-- À établir par un tableau dans VAL_DORE.md quand 2-3 villages supplémentaires auront été créés.
+**Contradiction A2 — Moulin à vent sur colline vs "en bordure de la Douve"** ✅ RÉSOLUE (2026-04-02)
+- "en bordure de la Douve" remplacé par "au-delà des champs" dans `ombre-apothicaire/intrigue.md`.
 
----
+**Contradiction A3 — Myrkul dans HAUTEFAUCHE.md (référence résiduelle obsolète)** ✅ RÉSOLUE (2026-04-02)
+- "les forces de Myrkul" remplacé par "les puissances de mort et de corruption qui semblent rôder dans la région" dans `HAUTEFAUCHE.md`, section La Chapelle de Chauntea.
 
-### Audit PNJ EDOUARD_DE_CHAMP_D_OR — 2026-03-22
+### Ambiguïtés résolues (2026-04-02)
 
-**Contradiction L1 — Lien brisé vers Pont-sur-Douve (section "Zone(s) de présence")** ✅ RÉSOLUE (2026-03-22)
-- Corrigé : `../PONT_SUR_DOUVE.md` → `../../../PONT_SUR_DOUVE.md`
+**Ambiguïté B1 — "Fragments de l'Antre" vs "Découseurs"** ✅ RÉSOLUE (2026-04-02)
+- "Fragments de l'Antre" remplacé par "Découseurs" dans `cellule-valtar.md`, section "Le Repaire".
 
-**Contradiction L2 — Lien brisé vers Val-Doré (section "Zone(s) de présence")** ✅ RÉSOLUE (2026-03-22)
-- Corrigé : `../../VAL_DORE.md` → `../../../../VAL_DORE.md`
+### Pattern récurrent identifié (2026-04-02)
+Les scènes de transition ("Avant le Départ", résumés d'intrigues) ont tendance à introduire des erreurs car elles sont créées après les fiches de zone/PNJ sans relecture systématique. Recommandation : lors de la création d'une scène mentionnant un PNJ ou un lieu déjà fiché, toujours relire la fiche correspondante.
 
-**Contradiction L3 — Deux chemins contradictoires vers faction/ROYAUME_CALEDONIE.md** ✅ RÉSOLUE (vérification 2026-03-22)
-- Ligne 104 déjà correcte dans le fichier (`../../../../../faction/ROYAUME_CALEDONIE.md`). La contradiction signalée ne correspondait plus à l'état réel du fichier.
-
----
-
-### Audit ciblé — Gentilé "Haut-Faucheur / Haute-Faucheuse" — 2026-03-22
-
-**Résultat : AUCUNE CONTRADICTION INTRODUITE**
-
-- Le gentilé n'apparaît que dans `HAUTEFAUCHE.md` (ligne 17) — aucun conflit textuel avec aucun autre fichier.
-- Morphologie cohérente avec le nom du lieu et le registre linguistique de l'univers.
-- Observation structurelle : le champ "Gentilé" n'existe pas dans le template `make-zone/zone_template.md`. Recommandation : l'y ajouter entre "Surnoms & noms locaux" et "Localisation".
-- Lacune résiduelle non bloquante : Pont-sur-Douve n'a pas encore de gentilé.
-
----
-
-### Audit PNJ ARMAND_LEFEBVRE — 2026-03-22
-
-**Résultat : AUCUNE CONTRADICTION DÉTECTÉE**
-
-Cohérence vérifiée sur les points suivants :
-- Lien faction `../../../../../faction/ROYAUME_CALEDONIE.md` : correct (remonte à la racine depuis `HAUTEFAUCHE/PNJ/`)
-- Lien zone `../../HAUTEFAUCHE.md` : correct
-- Affiliation "Comté du Val-Doré, Royaume de Calédonie" : cohérent avec MONDE.md et faction/ROYAUME_CALEDONIE.md
-- Épidémie liée au Culte de l'Ombrefin (section Aspects magiques) : cohérent avec CULTE_OMBREFIN.md
-- Comte Édouard de Champ-d'Or mentionné indirectement (Armand est "sous l'autorité du Comté du Val-Doré, loyal au Comte Édouard de Champ-d'Or") : cohérent avec EDOUARD_DE_CHAMP_D_OR.md
-- Population 150 habitants : conforme aux données de référence établies par HAUTEFAUCHE.md
-- Chauntea comme divinité du village : conforme au canon (Chauntea = divinité populaire calédonienne)
-- Culte de l'Ombrefin absent de la fiche faction d'Armand (il n'en fait pas partie) : correct
-- Ton et ambiance (thriller rural pastoral) : cohérent avec VAL_DORE.md et HAUTEFAUCHE.md
-
-**Convention narrative confirmée (2026-03-22)** :
-- "Aventuriers" et "soldats mandatés par le Comte" sont des termes interchangeables pour désigner les joueurs. Ce n'est pas une ambiguïté de lore. Ne plus signaler ce point dans les audits futurs.
-
-**Why:** Résultats d'audit, utiles pour les corrections futures et pour éviter de signaler les mêmes problèmes deux fois.
-**How to apply:** Vérifier le statut de ces points avant chaque nouvel audit. Mettre à jour ce fichier si l'auteur confirme une résolution.
-
----
-
-### Audit CASERNE.md — 2026-03-22
-
-**Résultat : AUCUNE CONTRADICTION DÉTECTÉE**
-
-Cohérence vérifiée sur les points suivants :
-- Effectif garnison 150-200 soldats : cohérent avec PONT_SUR_DOUVE.md (ligne 69)
-- Lieu parent Pont-sur-Douve, lien `../PONT_SUR_DOUVE.md` : correct depuis `PONT_SUR_DOUVE/`
-- Lien faction `../../../../faction/ROYAUME_CALEDONIE.md` : correct (4 niveaux depuis `PONT_SUR_DOUVE/`)
-- PNJ Édouard de Champ-d'Or comme commanditaire ultime : cohérent avec EDOUARD_DE_CHAMP_D_OR.md et cadre.md
-- Lien `./PNJ/EDOUARD_DE_CHAMP_D_OR.md` et `./PNJ/GILLES_DE_MARNAC.md` : cohérents avec la structure du dossier
-- Tyr mentionné (amulettes personnelles) : cohérent avec la chapelle Tyr du château-comtal dans PONT_SUR_DOUVE.md
-- Gilles de Marnac (nouveau PNJ) : non mentionné ailleurs, pas de conflit — fiche à créer ultérieurement
-- PONT_SUR_DOUVE.md mis à jour (lieux enfants) : lien `./PONT_SUR_DOUVE/CASERNE.md` correct
-- Lacune résiduelle non bloquante : Gilles de Marnac n'a pas encore de fiche PNJ dédiée (signalé dans les liens de CASERNE.md)
-
----
-
-### Audit PNJ ALDREN_MAISON_LUMINIS — 2026-03-23
-
-**Résultat : AUCUNE CONTRADICTION DE LORE — 3 erreurs de chemins relatifs à corriger**
-
-Cohérence de lore vérifiée sur les points suivants :
-- Race humain, origine finorienne : cohérent (VAL_DORE.md mentionne "Marchands finoriens — Diverses races")
-- Maison marchande mineure dans une magocratie : cohérent et bien exploité narrativement (REGIONS_FINORIENNES.md)
-- Renégociation commerciale dans l'instabilité calédonienne : cohérent avec REGIONS_FINORIENNES.md ("certaines cités cherchent à renégocier les termes commerciaux")
-- Présence sur la route commerciale du Val-Doré : cohérent (VAL_DORE.md confirme la présence de marchands finoriens)
-- Rôle de fausse piste épidémie Hautefauche : cohérent avec HAUTEFAUCHE.md (rumeur "(Faux)" déjà établie)
-- Indépendance politique vis-à-vis des cités-états : cohérent avec la structure fédérale lâche de REGIONS_FINORIENNES.md
-- Bienfaiteur anonyme (dette) : volontairement non défini, aucun conflit possible
-
-**Erreurs de chemins relatifs (non bloquantes pour le lore) :**
-- `../VAL_DORE/HAUTEFAUCHE.md` → doit être `../HAUTEFAUCHE.md` (depuis `VAL_DORE/PNJ/`)
-- `../VAL_DORE.md` → doit être `../../VAL_DORE.md`
-- `../../../faction/REGIONS_FINORIENNES.md` → doit être `../../../../faction/REGIONS_FINORIENNES.md`
-
-**Pattern récurrent confirmé** : les erreurs de profondeur de chemins relatifs dans les fiches PNJ sont un défaut structurel récurrent (déjà identifié sur EDOUARD_DE_CHAMP_D_OR, ARMAND_LEFEBVRE). Les PNJ dans `VAL_DORE/PNJ/` sont à 4 niveaux de profondeur depuis la racine : `../../../../` pour atteindre `faction/`.
+**Why:** Ces contradictions ont été identifiées lors des audits de cohérence. Le suivi permet d'éviter de les re-signaler et de prioriser les corrections.
+**How to apply:** Avant tout audit, vérifier le statut de ces points. Mettre à jour ce fichier si l'auteur confirme une résolution. Signaler les non-résolues dans les prochains rapports jusqu'à correction.

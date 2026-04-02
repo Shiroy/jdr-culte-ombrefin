@@ -46,7 +46,7 @@ Deux chevalières de pierre noire d'origine divine — le Découseur de Vie et l
 
 ## Le Repaire
 
-Demi-plan isolé créé et entretenu par Nelthar. Invisible et introuvable depuis le monde physique — aucun sort de divination ne peut le localiser. Seuls les Fragments de l'Antre permettent d'y accéder.
+Demi-plan isolé créé et entretenu par Nelthar. Invisible et introuvable depuis le monde physique — aucun sort de divination ne peut le localiser. Seuls les Découseurs permettent d'y accéder.
 
 *Contenu détaillé → voir `le-repaire/`*
 

@@ -19,7 +19,7 @@ Les soupçons du village se cristallisent autour d'Aliénor Combarel, l'apothica
 ## Déroulé
 
 ### 1. La Silhouette dans la Nuit *(pivot)*
-> Des hurlements de loups réveillent les joueurs en pleine nuit. En sortant, ils aperçoivent une silhouette ressemblant fortement à Aliénor Combarel se diriger vers le moulin, en bordure de la Douve. S'ils tentent de la suivre, une meute de loups opportunistes les intercepte — d'ici leur victoire, la silhouette a disparu. Marie Dubourg, insomniaque à sa fenêtre, a tout vu et gardera l'information précieusement jusqu'à l'aube.
+> Des hurlements de loups réveillent les joueurs en pleine nuit. En sortant, ils aperçoivent une silhouette ressemblant fortement à Aliénor Combarel se diriger vers le moulin, au-delà des champs. S'ils tentent de la suivre, une meute de loups opportunistes les intercepte — d'ici leur victoire, la silhouette a disparu. Marie Dubourg, insomniaque à sa fenêtre, a tout vu et gardera l'information précieusement jusqu'à l'aube.
 
 📄 `scenes/la-silhouette-dans-la-nuit/scene.md`
 
